@@ -1,0 +1,124 @@
+# Article Digest & Proof Points — Pradeep Penugonda
+
+<!-- Detailed proof points for use in cover letters, applications, and interview prep.
+     These expand on the one-liners in profile.yml. -->
+
+---
+
+## Proof Point 1: The 4-Week Year 9 Research Unit
+
+**What:** During teaching placement at Mullauna College (2022), before officially graduating, Pradeep's mentor challenged him to design and deliver a complete four-week student-led research unit for Year 9 Science.
+
+**What he built from scratch:**
+- A full **course booklet** structuring the four-week investigation
+- A **research process booklet** guiding students step-by-step through scientific method
+- **Custom animations made in Apple Motion** explaining each stage of the research process (visually, cinematically — not stock video)
+- Supporting resources and activity sheets
+
+**How it ran:**
+- Students chose their own area of interest from physics, chemistry, or biochemistry
+- Conducted step-by-step independent research, collected data, analysed results
+- Produced **professional-style research banners** — mirroring real academic poster presentations
+- Entire process executed at a professional level before Pradeep had formally started teaching
+
+**Why it matters:**
+This is the origin story of Pradeep's teaching identity. Designed entirely independently, with mentor oversight but no template to follow. Demonstrates curriculum design ability, project management, and the capacity to execute at a high standard under pressure — before most graduates have even held a class.
+
+**Use in applications when asked about:**
+- Curriculum design experience
+- Project-based learning
+- Student engagement strategies
+- Innovation in the classroom
+- Evidence of above-and-beyond contribution
+
+---
+
+## Proof Point 2: Cinematic Lesson Design → +25% Class Averages
+
+**What:** At St. Francis Xavier College (2023–present), Pradeep redesigned his Year 7–9 Science lessons using a visual-first approach:
+- **Custom animations** built in Apple Motion software
+- **AI-generated illustrations** tailored to lesson content
+- **Flowcharts and mind maps** as primary content delivery tools
+- **Cinematic PowerPoints** — not bulleted slides, but story-driven, visually rich presentations
+
+**Result:** Class average scores increased by 25%.
+
+**The philosophy:** The visual layer teaches the theory efficiently so students can spend more class time on the hands-on work — practicals, dissections, experiments. Tech is the scaffold, not the whole experience.
+
+**Use in applications when asked about:**
+- Measurable student outcomes
+- ICT integration in teaching
+- Differentiated instruction / diverse learners
+- Teaching methodology / pedagogy
+
+---
+
+## Proof Point 3: Practicals and Dissections Culture
+
+**What:** Pradeep runs frequent hands-on practical sessions including dissections across Years 7–9. Believes science has to be felt, not just seen.
+
+**Why it matters:** Many teachers cut back on practicals due to time and admin. Pradeep deliberately protects them — the visual lessons run efficiently so there's always room for lab time.
+
+**Use in applications when asked about:**
+- Laboratory safety and management
+- Practical skills development
+- Science-specific pedagogy
+
+---
+
+## Proof Point 4: Research Background (Published Scientist)
+
+**What:** Three peer-reviewed publications in international microbiology and mycology journals (2013–2014). MSc Biotechnology and Bioinformatics from La Trobe University — graduated with **High Distinction**.
+
+**Key publications:**
+1. *Ganoderma applanatum* as anticancer/antioxidant agent — *International Journal of Pharma and Biosciences*, April 2014
+2. Antioxidant and anticancer activity of *Tricholoma giganteum* — *Academic Journal of Cancer Research*, January 2014
+3. Antimicrobial activity of Basidiomycetous fungi — *International Journal of Pharma and Bio Sciences*, October 2013
+
+**Lab techniques:** SDS-PAGE, DNA extraction, protein purification, western blotting, transformation, protein expression, immunoblot analysis, mass spectrometry, restriction digestion, tissue culture, cell biology.
+
+**Why it matters for a teacher:** Students get a teacher who actually knows what it feels like to design an experiment, get a null result, and troubleshoot. The lab is not abstract — it is lived experience.
+
+**Use in applications when asked about:**
+- Science content knowledge depth
+- VCE readiness (especially Biology)
+- Credibility for Head of Science / senior roles
+
+---
+
+## Proof Point 5: Year 11–12 Biology (Private Tuition)
+
+**What:** Currently tutors Year 11–12 Biology students privately. Has the content mastery and pedagogical approach for VCE but has not yet had an official classroom opportunity.
+
+**Why it matters:** Ready for VCE. Not a risk hire — the content knowledge is demonstrated. The official classroom experience is the next step.
+
+**Use in applications when asked about:**
+- VCE readiness
+- Biology content expertise
+- Differentiation for high-achieving students
+
+---
+
+## Proof Point 6: Victorian Curriculum 2.0 Readiness
+
+**What:** Attended STAVCON 2025 — professional learning specifically focused on the Victorian Curriculum 2.0 science rollout scheduled for 2026.
+
+**Why it matters:** Many schools are still figuring out VC 2.0. Pradeep is already trained, familiar with the changes, and ready to contribute to curriculum planning ahead of the rollout.
+
+**Use in applications when asked about:**
+- Curriculum knowledge
+- Professional development and continuous learning
+- Contribution to school planning
+
+---
+
+## Teaching Philosophy (summary for cover letters)
+
+Pradeep's teaching is built on three pillars:
+
+1. **Visual first, always** — if a student can absorb the key concept just by looking at the page or slide, you've won half the battle. Every resource is designed with this in mind.
+2. **Hands on, every lesson** — science is experiential. Practicals, dissections, and experiments are not extras; they are the point.
+3. **Relentlessly improving** — the lesson delivered today should be better than yesterday's. New technology, new techniques, new ways of explaining — always searching.
+
+Portfolio: https://penugondapradeep.weebly.com/
+Philosophy site (under construction): https://infinitelearning.au/
