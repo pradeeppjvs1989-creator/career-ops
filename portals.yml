@@ -266,6 +266,184 @@ tracked_companies:
     notes: "Independent coed, Keilor East. ~25km from Carnegie."
     enabled: true
 
+  # ── GOVERNMENT SELECTIVE / HIGH-PERFORMING ───────────────
+  - name: Melbourne High School
+    careers_url: https://www.mhs.vic.edu.au/about/employment
+    scan_query: '"Melbourne High School" science teacher 2026 site:careers.vic.gov.au OR site:seek.com.au'
+    priority: HIGH
+    notes: "Selective entry government boys', South Yarra. ~12km. Prestige + strong science culture."
+    enabled: true
+
+  - name: MacRobertson Girls' High School
+    careers_url: https://www.macrobertson.vic.edu.au/about/employment
+    scan_query: '"MacRobertson" OR "Mac.Rob" science teacher 2026 site:careers.vic.gov.au OR site:seek.com.au'
+    priority: HIGH
+    notes: "Selective entry government girls', Melbourne CBD. ~12km. Top science school in state."
+    enabled: true
+
+  - name: Suzanne Cory High School
+    careers_url: https://www.suzannecory.vic.edu.au/about/employment
+    scan_query: '"Suzanne Cory" science teacher Werribee 2026 site:careers.vic.gov.au'
+    priority: WATCH
+    notes: "Selective entry government, Werribee. ~35km — far but top-tier prestige."
+    enabled: true
+
+  - name: Glen Waverley Secondary College
+    careers_url: https://www.glenwavsc.vic.edu.au/about/employment
+    scan_query: '"Glen Waverley Secondary" science teacher 2026 site:careers.vic.gov.au'
+    priority: WATCH
+    notes: "High-performing government, Glen Waverley. ~15km from Carnegie."
+    enabled: true
+
+  - name: Balwyn High School
+    careers_url: https://www.balwynhs.vic.edu.au/about/employment
+    scan_query: '"Balwyn High" science teacher 2026 site:careers.vic.gov.au OR site:seek.com.au'
+    priority: WATCH
+    notes: "High-performing government, Balwyn. ~17km from Carnegie."
+    enabled: true
+
+  - name: Box Hill High School
+    careers_url: https://www.boxhillhs.vic.edu.au/about/employment
+    scan_query: '"Box Hill High" science teacher 2026 site:careers.vic.gov.au OR site:seek.com.au'
+    priority: WATCH
+    notes: "High-performing government, Box Hill. ~17km from Carnegie."
+    enabled: true
+
+  - name: Camberwell High School
+    careers_url: https://www.camberwellhs.vic.edu.au/about/employment
+    scan_query: '"Camberwell High" science teacher 2026 site:careers.vic.gov.au OR site:seek.com.au'
+    priority: WATCH
+    notes: "High-performing government, Camberwell. ~13km from Carnegie."
+    enabled: true
+
+  - name: Cheltenham Secondary College
+    careers_url: https://www.cheltenham.sc.edu.au/about/employment
+    scan_query: '"Cheltenham Secondary" science teacher 2026 site:careers.vic.gov.au OR site:seek.com.au'
+    priority: WATCH
+    notes: "Government school, Cheltenham. ~8km from Carnegie."
+    enabled: true
+
+  # ── INDEPENDENT — ADDITIONAL TOP SCHOOLS ─────────────────
+  - name: Wesley College
+    careers_url: https://www.wesleycollege.edu.au/about/employment
+    scan_query: '"Wesley College" science teacher Melbourne 2026 site:seek.com.au OR site:tes.com'
+    priority: HIGH
+    notes: "Large independent co-ed, Glen Waverley/St Kilda Rd/Elsternwick campuses. Strong STEM culture."
+    enabled: true
+
+  - name: Carey Baptist Grammar
+    careers_url: https://www.carey.com.au/about/employment
+    scan_query: '"Carey Baptist" OR "Carey Grammar" science teacher Kew 2026 site:seek.com.au OR site:tes.com'
+    priority: HIGH
+    notes: "Independent co-ed, Kew. ~15km from Carnegie. Strong academic reputation."
+    enabled: true
+
+  - name: Trinity Grammar School
+    careers_url: https://www.trinity.vic.edu.au/about/employment
+    scan_query: '"Trinity Grammar" science teacher Kew 2026 site:seek.com.au OR site:tes.com'
+    priority: WATCH
+    notes: "Independent boys', Kew. ~15km from Carnegie."
+    enabled: true
+
+  - name: Xavier College
+    careers_url: https://www.xavier.vic.edu.au/about/employment
+    scan_query: '"Xavier College" science teacher Kew OR Burke Road 2026 site:seek.com.au OR site:tes.com'
+    priority: WATCH
+    notes: "Jesuit independent boys', Kew. ~15km from Carnegie."
+    enabled: true
+
+  - name: Loreto Mandeville Hall
+    careers_url: https://www.loreto.vic.edu.au/about/employment
+    scan_query: '"Loreto" "Mandeville" science teacher Toorak 2026 site:seek.com.au OR site:tes.com'
+    priority: WATCH
+    notes: "Independent Catholic girls', Toorak. ~12km from Carnegie."
+    enabled: true
+
+  - name: Korowa Anglican Girls' School
+    careers_url: https://www.korowa.vic.edu.au/about/employment
+    scan_query: '"Korowa" science teacher Glen Iris 2026 site:seek.com.au OR site:tes.com'
+    priority: WATCH
+    notes: "Independent Anglican girls', Glen Iris. ~8km from Carnegie."
+    enabled: true
+
+  - name: Ruyton Girls' School
+    careers_url: https://www.ruyton.vic.edu.au/about/employment
+    scan_query: '"Ruyton" science teacher Kew 2026 site:seek.com.au OR site:tes.com'
+    priority: WATCH
+    notes: "Independent girls', Kew. ~15km from Carnegie."
+    enabled: true
+
+  - name: Genazzano FCJ College
+    careers_url: https://www.genazzano.vic.edu.au/about/employment
+    scan_query: '"Genazzano" science teacher Kew 2026 site:seek.com.au OR site:tes.com'
+    priority: WATCH
+    notes: "Independent Catholic girls', Kew. ~15km from Carnegie."
+    enabled: true
+
+  - name: Mount Scopus Memorial College
+    careers_url: https://www.mountscopus.vic.edu.au/employment
+    scan_query: '"Mount Scopus" science teacher Burwood 2026 site:seek.com.au OR site:tes.com'
+    priority: WATCH
+    notes: "Independent Jewish co-ed, Burwood. ~12km from Carnegie."
+    enabled: true
+
+  - name: De La Salle College
+    careers_url: https://www.dlsmalvern.vic.edu.au/about/employment
+    scan_query: '"De La Salle" Malvern science teacher 2026 site:seek.com.au OR site:cem.edu.au'
+    priority: WATCH
+    notes: "Catholic boys', Malvern. ~10km from Carnegie."
+    enabled: true
+
+  # ── CATHOLIC — ADDITIONAL ─────────────────────────────────
+  - name: Sacre Coeur
+    careers_url: https://www.sacrecoeur.vic.edu.au/about/employment
+    scan_query: '"Sacre Coeur" OR "Sacré Cœur" science teacher Glen Iris 2026 site:seek.com.au OR site:cem.edu.au'
+    priority: WATCH
+    notes: "Catholic girls', Glen Iris. ~8km from Carnegie."
+    enabled: true
+
+  - name: Star of the Sea College
+    careers_url: https://www.starofthesea.vic.edu.au/about/employment
+    scan_query: '"Star of the Sea" science teacher Gardenvale 2026 site:seek.com.au OR site:cem.edu.au'
+    priority: WATCH
+    notes: "Catholic girls', Gardenvale. ~8km from Carnegie."
+    enabled: true
+
+  - name: Sacred Heart Girls' College
+    careers_url: https://www.shgc.vic.edu.au/about/employment
+    scan_query: '"Sacred Heart" Girls College science teacher Oakleigh 2026 site:seek.com.au OR site:cem.edu.au'
+    priority: WATCH
+    notes: "Catholic girls', Oakleigh. ~5km from Carnegie."
+    enabled: true
+
+  - name: Marcellin College
+    careers_url: https://www.marcellin.vic.edu.au/about/employment
+    scan_query: '"Marcellin College" science teacher Bulleen 2026 site:seek.com.au OR site:cem.edu.au'
+    priority: WATCH
+    notes: "Catholic boys', Bulleen. ~20km from Carnegie."
+    enabled: true
+
+  - name: Our Lady of Sion College
+    careers_url: https://www.sion.vic.edu.au/about/employment
+    scan_query: '"Our Lady of Sion" OR "Sion College" science teacher Box Hill 2026 site:seek.com.au OR site:cem.edu.au'
+    priority: WATCH
+    notes: "Catholic girls', Box Hill. ~17km from Carnegie."
+    enabled: true
+
+  - name: Emmanuel College
+    careers_url: https://www.emmanuellge.vic.edu.au/about/employment
+    scan_query: '"Emmanuel College" science teacher Warrnambool OR Altona 2026 site:seek.com.au OR site:cem.edu.au'
+    priority: WATCH
+    notes: "Catholic co-ed. User-requested watch."
+    enabled: true
+
+  - name: Padua College
+    careers_url: https://www.padua.vic.edu.au/about/employment
+    scan_query: '"Padua College" science teacher Preston OR Mornington 2026 site:seek.com.au OR site:cem.edu.au'
+    priority: WATCH
+    notes: "Catholic boys', Preston/Mornington campuses."
+    enabled: true
+
   # ── SYSTEM PORTALS ────────────────────────────────────────
   - name: DET Victoria (Careers Vic)
     careers_url: https://www.careers.vic.gov.au/searchjobs?type=3&category=science&location=Melbourne
