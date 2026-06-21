@@ -1,0 +1,292 @@
+# Portal Scanner Configuration — Education (Victoria, Australia)
+# Pradeep Penugonda — Secondary Science Teacher
+# Target: Full-time ongoing Science roles, Years 7–12, Melbourne metro
+
+title_filter:
+  positive:
+    - "Science"
+    - "Biology"
+    - "Chemistry"
+    - "Physics"
+    - "STEM"
+    - "Head of Science"
+    - "Head of Department"
+    - "HoD Science"
+    - "Leading Teacher"
+    - "Science Teacher"
+    - "Teacher of Science"
+    - "VCE Science"
+    - "VCE Biology"
+    - "VCE Chemistry"
+  negative:
+    - "CRT"
+    - "Casual Relief"
+    - "Part Time"
+    - "Part-Time"
+    - "Part-time"
+    - "Fixed Term"
+    - "Fixed-Term"
+    - "Fixed-term"
+    - "Temporary"
+    - "Contract"
+    - "Casual"
+    - "Maternity Cover"
+    - "Maternity Leave Cover"
+    - "Parental Leave Cover"
+    - "Short-term"
+    - "Short Term"
+    - "0.5"
+    - "0.6"
+    - "0.8"
+    - "Maths"
+    - "Mathematics"
+    - "Outdoor Ed"
+    - "Physical Education"
+    - "PE Teacher"
+    - "HPE"
+    - "Health"
+    - "Drama"
+    - "Music"
+    - "Art"
+    - "English"
+    - "Humanities"
+    - "History"
+    - "Geography"
+    - "Languages"
+    - "French"
+    - "Japanese"
+  seniority_boost:
+    - "Head of Science"
+    - "Head of Department"
+    - "HoD"
+    - "Leading Teacher"
+    - "Coordinator"
+    - "VCE"
+    - "Senior"
+    - "Years 10"
+    - "Years 11"
+    - "Years 12"
+
+search_queries:
+  - name: Careers Vic — Science Teacher Melbourne
+    query: 'site:careers.vic.gov.au "science teacher" OR "science" Melbourne 2026 full-time ongoing'
+    enabled: true
+
+  - name: SEEK — Science Teacher Melbourne
+    query: 'site:seek.com.au "science teacher" Melbourne VIC full-time permanent ongoing 2026'
+    enabled: true
+
+  - name: SEEK — Head of Science Melbourne
+    query: 'site:seek.com.au "head of science" OR "head of department science" Melbourne VIC 2026'
+    enabled: true
+
+  - name: EduStaff — Science Teacher Melbourne
+    query: 'site:edustaff.com.au "science teacher" OR "VCE science" Melbourne Victoria full-time 2026'
+    enabled: true
+
+  - name: Tes Australia — Science Teacher Melbourne
+    query: 'site:tes.com "science teacher" Melbourne Victoria Australia full-time 2026'
+    enabled: true
+
+  - name: Indeed — Science Teacher Melbourne
+    query: 'site:au.indeed.com "science teacher" Melbourne VIC full-time permanent 2026'
+    enabled: true
+
+  - name: CEM Jobs — Science Teacher
+    query: 'site:cem.edu.au "science" teacher vacancy Melbourne 2026'
+    enabled: true
+
+  - name: Independent Schools Victoria — Science
+    query: 'site:educationemployment.com.au OR site:seek.com.au "science teacher" "independent school" Melbourne 2026'
+    enabled: true
+
+tracked_companies:
+
+  # ── TOP PRIORITY ──────────────────────────────────────────
+  - name: Nossal High School
+    careers_url: https://www.careers.vic.gov.au/searchjobs?search=nossal
+    scan_query: '"Nossal High School" science teacher site:careers.vic.gov.au OR site:seek.com.au 2026'
+    priority: TOP
+    notes: "Gifted education state school, Berwick. TOP priority — prestige + commute OK at 40km."
+    enabled: true
+
+  - name: St Margaret's Berwick Grammar
+    careers_url: https://www.stmargaretsberwick.vic.edu.au/about/employment
+    scan_query: '"St Margaret" "Berwick" science teacher 2026 site:seek.com.au OR site:tes.com OR site:edustaff.com.au'
+    priority: TOP
+    notes: "Independent girls' school, Berwick. TOP priority — commute ~40km acceptable for prestige."
+    enabled: true
+
+  # ── HIGH PRIORITY ─────────────────────────────────────────
+  - name: Mentone Girls' Grammar
+    careers_url: https://www.mentonegirls.vic.edu.au/about/employment
+    scan_query: '"Mentone Girls" science teacher 2026 site:seek.com.au OR site:tes.com'
+    priority: HIGH
+    notes: "Independent girls' school, Mentone. ~8km from Carnegie. Science listing recently seen."
+    enabled: true
+
+  - name: Brighton Grammar
+    careers_url: https://www.brightongrammar.vic.edu.au/about/employment
+    scan_query: '"Brighton Grammar" science teacher 2026 site:seek.com.au OR site:tes.com'
+    priority: HIGH
+    notes: "Independent boys' school, Brighton East. ~7km from Carnegie."
+    enabled: true
+
+  - name: St Bede's College
+    careers_url: https://www.stbedes.catholic.edu.au/about/employment
+    scan_query: '"St Bede" science teacher 2026 site:seek.com.au OR site:cem.edu.au'
+    priority: HIGH
+    notes: "Catholic boys' school, Mentone. Application package already prepared."
+    enabled: true
+
+  - name: Caulfield Grammar
+    careers_url: https://www.caulfieldgs.vic.edu.au/about/employment
+    scan_query: '"Caulfield Grammar" science teacher 2026 site:seek.com.au OR site:tes.com'
+    priority: HIGH
+    notes: "Large independent school, multiple campuses. ~10km from Carnegie."
+    enabled: true
+
+  - name: Kingswood College
+    careers_url: https://www.kingswoodcollege.vic.edu.au/about-us/our-people/careers-at-kingswood
+    scan_query: '"Kingswood College" science teacher 2026 site:seek.com.au OR site:tes.com OR site:edustaff.com.au'
+    priority: HIGH
+    notes: "Independent K-12, Box Hill North. ~15km from Carnegie. User-requested watch."
+    enabled: true
+
+  - name: John Monash Science School
+    careers_url: https://www.jmss.vic.edu.au/about/employment
+    scan_query: '"John Monash Science School" OR "JMSS" science teacher 2026 site:careers.vic.gov.au OR site:seek.com.au'
+    priority: HIGH
+    notes: "Specialist science/maths selective senior school, Clayton — Monash University campus. Strong subject + research-background match."
+    enabled: true
+
+  - name: John Paul College
+    careers_url: https://www.jpc.vic.edu.au/employment
+    scan_query: '"John Paul College" science teacher Frankston 2026 site:seek.com.au OR site:cem.edu.au OR site:edustaff.com.au'
+    priority: HIGH
+    notes: "Catholic co-ed, Frankston. ~30km from Carnegie. User-requested watch."
+    enabled: true
+
+  # ── WATCH ─────────────────────────────────────────────────
+  - name: Melbourne Girls Grammar
+    careers_url: https://www.mggs.vic.edu.au/about/employment
+    scan_query: '"Melbourne Girls Grammar" science teacher 2026 site:seek.com.au OR site:tes.com'
+    priority: WATCH
+    notes: "Independent girls' school, South Yarra. ~10km from Carnegie. Evaluated role #010."
+    enabled: true
+
+  - name: Siena College
+    careers_url: https://www.siena.catholic.edu.au/about-us/careers
+    scan_query: '"Siena College" science teacher Camberwell 2026 site:seek.com.au'
+    priority: WATCH
+    notes: "Catholic girls' school, Camberwell. ~13km from Carnegie."
+    enabled: true
+
+  - name: Mentone Grammar
+    careers_url: https://www.mentonegrammar.net/community/employment
+    scan_query: '"Mentone Grammar" science teacher 2026 site:seek.com.au OR site:tes.com'
+    priority: WATCH
+    notes: "Coed independent, Mentone. ~6km from Carnegie. Recently advertised Physics (not a match)."
+    enabled: true
+
+  - name: Salesian College
+    careers_url: https://www.salesian.vic.edu.au/about/employment
+    scan_query: '"Salesian College" Chadstone science teacher 2026 site:seek.com.au'
+    priority: WATCH
+    notes: "Catholic boys' school, Chadstone. ~9km from Carnegie."
+    enabled: true
+
+  - name: Mazenod College
+    careers_url: https://www.mazenod.vic.edu.au/community/employment
+    scan_query: '"Mazenod College" science teacher Mulgrave 2026 site:seek.com.au'
+    priority: WATCH
+    notes: "Catholic boys' school, Mulgrave. ~14km from Carnegie."
+    enabled: true
+
+  - name: St Kevin's College
+    careers_url: https://www.stkevins.com.au/community/employment
+    scan_query: '"St Kevin" college science teacher Toorak 2026 site:seek.com.au'
+    priority: WATCH
+    notes: "Catholic boys' school, Toorak. ~14km from Carnegie."
+    enabled: true
+
+  - name: Melbourne Grammar
+    careers_url: https://www.mgs.vic.edu.au/about/employment
+    scan_query: '"Melbourne Grammar" science teacher 2026 site:seek.com.au OR site:tes.com'
+    priority: WATCH
+    notes: "Elite independent boys', South Yarra. ~12km from Carnegie."
+    enabled: true
+
+  - name: Scotch College
+    careers_url: https://www.scotch.vic.edu.au/about/employment
+    scan_query: '"Scotch College" science teacher Hawthorn 2026 site:seek.com.au'
+    priority: WATCH
+    notes: "Elite independent boys', Hawthorn. ~15km from Carnegie."
+    enabled: true
+
+  - name: Haileybury
+    careers_url: https://www.haileybury.com.au/about/employment
+    scan_query: '"Haileybury" science teacher 2026 site:seek.com.au OR site:tes.com'
+    priority: WATCH
+    notes: "Large independent, multiple campuses."
+    enabled: true
+
+  - name: Toorak College
+    careers_url: https://www.toorakc.vic.edu.au/about/careers
+    scan_query: '"Toorak College" science teacher Mount Eliza 2026 site:seek.com.au OR site:tes.com'
+    priority: WATCH
+    notes: "Independent girls' school, Mount Eliza. ~45km from Carnegie — user-requested watch."
+    enabled: true
+
+  - name: Beaconhills College
+    careers_url: https://www.beaconhills.vic.edu.au/discover/careers
+    scan_query: '"Beaconhills College" science teacher Berwick OR Pakenham OR Officer 2026 site:seek.com.au OR site:edustaff.com.au'
+    priority: WATCH
+    notes: "Independent coed, Berwick/Pakenham/Officer campuses. ~35km from Carnegie — user-requested watch."
+    enabled: true
+
+  - name: Nazareth College
+    careers_url: https://www.nazareth.vic.edu.au/employment
+    scan_query: '"Nazareth College" science teacher Noble Park 2026 site:seek.com.au OR site:cem.edu.au'
+    priority: WATCH
+    notes: "Catholic co-ed, Noble Park. ~8km from Carnegie. User-requested watch."
+    enabled: true
+
+  - name: Killester College
+    careers_url: https://www.killester.vic.edu.au/about/employment
+    scan_query: '"Killester College" science teacher Springvale 2026 site:seek.com.au OR site:cem.edu.au'
+    priority: WATCH
+    notes: "Catholic girls' school, Springvale. ~8km from Carnegie. User-requested watch."
+    enabled: true
+
+  - name: PEGS (Penleigh & Essendon Grammar)
+    careers_url: https://www.pegs.vic.edu.au/about/employment
+    scan_query: '"Penleigh" OR "PEGS" science teacher 2026 site:seek.com.au'
+    priority: WATCH
+    notes: "Independent coed, Keilor East. ~25km from Carnegie."
+    enabled: true
+
+  # ── SYSTEM PORTALS ────────────────────────────────────────
+  - name: DET Victoria (Careers Vic)
+    careers_url: https://www.careers.vic.gov.au/searchjobs?type=3&category=science&location=Melbourne
+    scan_query: 'site:careers.vic.gov.au "science" teacher Melbourne ongoing full-time 2026'
+    notes: "All Victorian government school vacancies."
+    enabled: true
+
+  - name: Catholic Education Melbourne (CEM)
+    careers_url: https://www.cem.edu.au/Careers/Teaching-Positions
+    scan_query: 'site:cem.edu.au OR "Catholic Education Melbourne" science teacher 2026'
+    notes: "All Catholic schools in Melbourne Archdiocese."
+    enabled: true
+
+  - name: EREA (Edmund Rice)
+    careers_url: https://www.erea.edu.au/work-with-us
+    scan_query: '"Edmund Rice" OR EREA science teacher Melbourne 2026 site:seek.com.au'
+    notes: "Edmund Rice Education Australia — includes Christian Brothers schools."
+    enabled: true
+
+  - name: Edrolo
+    careers_url: https://www.edrolo.com.au/about/careers
+    scan_query: '"Edrolo" teacher OR "curriculum" OR "education" 2026 site:seek.com.au'
+    notes: "EdTech company, Melbourne. Non-classroom alternative if desired."
+    enabled: true
