@@ -1,0 +1,96 @@
+# Career-Ops Profile — Pradeep Penugonda
+# Secondary Science Teacher | Melbourne, VIC, Australia
+
+candidate:
+  full_name: "Pradeep Penugonda"
+  email: "penugonda56@outlook.com"        # primary professional email (see note below)
+  alt_email: "pradeeppjvs1989@gmail.com"   # account/older-resume email — standardise on ONE
+  phone: "+61 452 668 984"
+  location: "Carnegie VIC 3163, Melbourne, Australia"
+  address: "11/184 Neerim Road, Carnegie VIC 3163"
+  linkedin: "linkedin.com/in/penugondapradeep"
+  portfolio_url: "https://penugondapradeep.weebly.com/"
+  philosophy_site: "https://infinitelearning.au/ (under construction)"
+  vit_registration: "727895"
+  wwcc: "TBC — add before submitting applications"
+
+target_roles:
+  primary:
+    - "Secondary Science Teacher (Years 7–12)"
+    - "Head of Science / Head of Department (Science)"
+    - "Leading Teacher — Science / STEM"
+  archetypes:
+    - name: "Classroom Science Teacher"
+      level: "Experienced (3+ years)"
+      fit: "primary"
+    - name: "Head of Science / HoD"
+      level: "Aspiring / Ready"
+      fit: "primary"
+    - name: "Leading Teacher / STEM Coordinator"
+      level: "Mid-career"
+      fit: "secondary"
+    - name: "EdTech / Curriculum Designer"
+      level: "Mid-career"
+      fit: "adjacent"
+
+narrative:
+  headline: "Secondary Science Teacher with research background and visual-first pedagogy"
+  current_role: "Science Teacher Years 7–9, St Francis Xavier College (Berwick & Officer campuses), 2023–present"
+  why_leaving: "Commute from Carnegie to Berwick is unsustainable long-term. Seeking a school closer to home where I can invest energy in the community rather than the motorway."
+  superpowers:
+    - "Custom Apple Motion animations + AI illustrations — making invisible science visible"
+    - "3 peer-reviewed publications — credibility across Biology, Chemistry, Bioinformatics"
+    - "Introduced Year 7 dissections — a first for the campus (curriculum innovation, done independently)"
+    - "Developed & shared the 'pluck' dissection across both campuses — collegiate leadership"
+    - "Authored two new 2027 elective proposals (Biomedical Science; Motion, Energy and Materials)"
+    - "25% improvement in class averages from redesigned visual-first unit sequences"
+    - "VCE Biology private tutor (Units 1–4) — senior content knowledge, ready now"
+    - "STAVCON 2025 — Victorian Curriculum 2.0 trained ahead of 2026 rollout"
+    - "Builds Standard + PLP versions of assessments — documented differentiation"
+  proof_points:
+    - name: "4-Week Year 9 Research Unit"
+      description: "Designed independently at Mullauna College placement — full booklet, animations, research banners"
+    - name: "+25% Class Averages"
+      description: "Year 9 science cohort improvement after visual-first lesson redesign with Apple Motion + AI illustrations"
+    - name: "Year 7 Dissections — Campus First"
+      description: "Introduced dissection practicals at Year 7 for the first time at the campus; strong engagement even from challenging groups"
+    - name: "Pluck Dissection — Cross-Campus"
+      description: "Developed a new respiratory/digestive dissection, shared across Berwick & Officer campuses with full resources"
+    - name: "2027 Elective Proposals"
+      description: "Formal course proposals for Biomedical Science and Motion, Energy and Materials (Years 7–9)"
+    - name: "3 Peer-Reviewed Publications"
+      description: "Microbiology & mycology journals (2013–2014). La Trobe MSc High Distinction (2017)."
+    - name: "VCE Biology Tutoring"
+      description: "Currently tutoring Years 11–12 Biology privately, Units 1–4, SAC preparation"
+  deal_breakers:
+    - "Excessive administrative burden beyond normal teaching load"
+    - "Toxic Year 12 pressure culture"
+    - "Workplace politics / dysfunctional staff culture"
+    - "Commute > 15km (unless very prestigious school)"
+    - "CRT / casual / fixed-term / part-time roles"
+    - "Non-science subject allocation (Maths, HPE, etc.)"
+
+compensation:
+  target_range: "AUD $90,000–$115,000 + super"
+  minimum: "AUD $82,000 + super"
+  currency: "AUD"
+  notes: "DET scale for government schools. Independent school EA negotiable. Catholic school CECV EA."
+
+location:
+  country: "Australia"
+  city: "Carnegie, VIC 3163"
+  timezone: "AEST (UTC+10)"
+  visa_status: "Permanent Resident — no sponsorship needed"
+  commute_standard: "≤15km from Carnegie preferred"
+  commute_premium: "≤40km acceptable for top schools (Nossal, St Margaret's Berwick Grammar)"
+  excluded: "Berwick direction (current school commute = deal-breaker)"
+
+language:
+  modes_dir: "modes"  # English default
+
+scoring_weights:
+  subject_match: 0.30       # Science/Biology/Chemistry = exact match; Physics/Maths = penalty
+  location_commute: 0.25    # Distance from Carnegie
+  school_type_culture: 0.20 # Independent > Catholic > Government (equal quality)
+  year_level: 0.15          # Yrs 7–10 = ideal; Yrs 11–12 = bonus; Primary = SKIP
+  career_growth: 0.10       # HoD pathway, VCE opportunity, senior subject offer
