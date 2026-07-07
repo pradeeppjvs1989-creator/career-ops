@@ -1,122 +1,137 @@
 # Pradeep Penugonda
 
-**Location:** 11/184 Neerim Road, Carnegie VIC 3163, Australia  
-**Email:** penugonda56@outlook.com  
-**Phone:** +61 452 668 984  
-**LinkedIn:** linkedin.com/in/penugondapradeep  
+**Location:** Carnegie VIC 3163, Melbourne, Australia
+**Email:** penugonda56@outlook.com
+**Phone:** +61 452 668 984
+**LinkedIn:** linkedin.com/in/penugondapradeep
 **Portfolio:** https://penugondapradeep.weebly.com/
+**VIT Registration:** 727895
 
 ---
 
 ## Professional Summary
 
-Dedicated and innovative Secondary Science Teacher with experience in Years 7–9 science education. Skilled in curriculum development, ICT integration, and fostering student engagement. Adept at creating inclusive, interactive, and inquiry-driven learning environments that motivate students to reach their full potential. Passionate about applying scientific concepts to real-world problem-solving. Strong research background in Biotechnology, Bioinformatics, and Microbiology, with peer-reviewed publications.
+Secondary Science teacher and published research scientist who brings the laboratory into the classroom. Three years teaching Years 7–9 Science at St Francis Xavier College, on top of a research career spanning three peer-reviewed publications, a High Distinction MSc in Biotechnology & Bioinformatics, and professional microbiology QC experience. Known for a visual-first, practical-first pedagogy that lifted class averages by 25%, and for pioneering hands-on practicals — including Year 7 dissections delivered for the first time at the campus. Curriculum innovator: authored formal proposals for two new 2027 electives and shares professionally designed resources across campuses. VCE Biology–ready, Victorian Curriculum 2.0–trained, and driven by one belief: students learn science best when they can see it and do it.
 
 ---
 
 ## Key Skills
 
-- Curriculum Development & Lesson Planning
-- STEM Education and ICT Integration
-- Classroom Management & Student Engagement
-- Inquiry-Based and Experiential Learning Design
-- Data-Driven Assessment & Feedback Implementation
-- Victorian Curriculum (including rollout of Curriculum 2.0)
-- Collaboration with Staff, Parents, and Students
-- Differentiated Instruction & Inclusive Practices
-- Scientific Research and Laboratory Techniques
-- Communication and Interpersonal Skills
+- Curriculum Development, Lesson Planning & Course Design
+- Practical & Laboratory Science (dissections, experiments, lab safety)
+- Visual-First Pedagogy — custom animation & instructional design
+- STEM Education & ICT Integration
+- Differentiated Instruction & Personalised Learning Plans (PLP)
+- VCE Biology (Units 1–4) — content, SAC preparation, exam technique
+- Victorian Curriculum, including Curriculum 2.0 rollout
+- Inquiry-Based & Experiential Learning Design
+- Data-Driven Assessment & Feedback
+- Classroom Management (Bill Rogers framework)
+- Cross-Campus Resource Sharing & Collegiate Collaboration
+- Scientific Research & Advanced Laboratory Techniques
 
 ---
 
 ## Professional Experience
 
 ### Secondary Science Teacher
-**St. Francis Xavier College, Melbourne, Australia**  
+**St. Francis Xavier College, Berwick & Officer Campuses, Melbourne**
 *Full-time | 2023 – Present | Years 7–9 Science*
 
-- Designed and delivered dynamic lesson plans integrating ICT and educational technology to enhance student learning outcomes.
-- Taught lessons using self-created animations, increasing class average scores by 25%.
-- Led practical sessions, resulting in students achieving competency in experimental design.
-- Developed a 4-week extended investigation unit culminating in student-led poster presentations.
-- Fostered critical thinking through inquiry-based investigations and experiments.
-- Built strong relationships with students and parents, contributing to a supportive learning environment.
-- Moderated and collaborated with colleagues in developing high-quality science teaching resources for effective curriculum delivery.
-- Encouraged students to apply scientific understanding in practical problem-solving scenarios.
+**Teaching & Classroom Practice**
+- Currently teach seven classes across Years 7, 8, and 9, sustaining strong performance and engagement across the load.
+- Introduced **dissection practicals at Year 7 level for the first time at the campus** — a curriculum innovation delivered independently. No other teacher, past or present, had run this practical at Year 7. Planned and led the practical with all classes, including two Year 7 groups; students followed every instruction, handled specimens with care, and produced excellent work.
+- Developed and introduced an additional **"pluck" dissection** (respiratory and digestive systems) — also a first for the College — and shared it across both the Berwick and Officer campuses with full resources and instructions, encouraging colleagues to adopt it (announced in the Science Teams channel).
+- Consistently run hands-on practicals across all year levels, beyond what is standard or required, to lift the depth and engagement of practical Science.
+- Redesigned Year 7–9 Science units around a visual-first approach (custom animations, AI-generated illustrations, cinematic presentations), **increasing class average scores by 25%**.
+
+**Resource Development**
+- Produced high-quality, professionally designed teaching presentations using advanced educational-technology and design software (Apple Motion, AI illustration tools).
+- Created **Standard and PLP (Personalised Learning Plan) versions** of assessments and practicals across multiple year levels to ensure accessibility for all learners — shared across both campuses.
+- Built a full four-week student-led research unit (booklet, process guide, animations, showcase banners) during placement, delivered at a professional standard.
+
+**Curriculum Leadership**
+- Submitted formal course proposals for **two new 2027 elective subjects — Biomedical Science, and Motion, Energy and Materials** — targeting Years 7–9.
+- Actively shares resources with colleagues through Teams and collaborative platforms across campuses.
+- Attends and implements the College's Professional Learning programs, including the **Bill Rogers** behaviour-management series, with documented application in classroom practice.
 
 ---
 
 ## Professional Placements
 
 ### Year 9 Science Teacher (Placement)
-**Mullauna College, Melbourne, Australia**  
-*2022*
-
-- Delivered a unit on electromagnetism including practical sessions, using animations and digital tools to enhance understanding.
-- Developed strong communication skills and incorporated mentor feedback to refine teaching strategies.
+**Mullauna College, Melbourne** — *2022*
+- Designed and delivered a complete four-week student-led research unit from scratch — course booklet, research-process guide, custom Apple Motion animations, and student research-banner presentations.
+- Delivered a unit on electromagnetism with practical sessions, using animations and digital tools to enhance understanding.
+- Incorporated mentor feedback to refine teaching strategies.
 
 ### Years 7–9 Science Teacher (Placement)
-**East Preston College, Melbourne, Australia**  
-*2019*
-
+**East Preston College, Melbourne** — *2019*
 - Participated in after-school meetings and parent-teacher interviews to strengthen the school community.
-- Sought and applied feedback from mentors to improve teaching practices and student engagement.
+- Sought and applied mentor feedback to improve teaching practice and student engagement.
+
+---
+
+## Scientific & Industry Experience
+
+### Laboratory Assistant (Internship)
+**Eurofins, Melbourne, Australia** — *2021*
+- Performed daily pH meter and pipette calibration, media preparation, and colony counting.
+- Conducted QC growth-promotion testing and Preservative Efficacy Testing (PET) in line with Good Laboratory Practices (GLP).
 
 ---
 
 ## Education
 
-**Master of Teaching (Secondary School Education)**  
-Victoria University, Melbourne, Australia — *2022*  
-Hands-on experience teaching Years 7–10 Science. Skilled in lesson planning, grading, and providing feedback. Strong ability to simplify complex concepts. Passionate about integrating visual arts and digital media to create engaging, student-centered learning experiences.
+**Master of Teaching (Secondary School Education)**
+Victoria University, Melbourne — *2022*
+Specialisation in Years 7–10 Science. Lesson planning, assessment, differentiation, and integration of visual arts and digital media for student-centred learning.
 
-**Master of Science (Biotechnology and Bioinformatics)**  
-La Trobe University, Melbourne, Australia — *2017 | Graduated with High Distinction*  
-Key project: "BUFFY: A Bcl-2 Like Protein from Drosophila melanogaster" — involving SDS-PAGE, DNA extraction, protein purification, western blotting, transformation, protein expression, immunoblot analysis, mass spectrometry, and restriction digestion. Proficient in biotechnology, bioinformatics, biochemistry, and molecular & cellular biology.
+**Master of Science (Biotechnology and Bioinformatics)**
+La Trobe University, Melbourne — *2017 | Graduated with High Distinction*
+Key project: "BUFFY: A Bcl-2 Like Protein from Drosophila melanogaster" — SDS-PAGE, DNA extraction, protein purification, western blotting, transformation, protein expression, immunoblot analysis, mass spectrometry, restriction digestion. Proficient across biochemistry, molecular and cellular biology, and bioinformatics.
 
-**Master of Science (Microbiology)**  
-Bangalore University, India — *2013*  
-Completed postgraduate studies with exposure to advanced laboratory techniques including tissue culture and cell biology. Presented a paper on "Evolution of Antimicrobial, Antioxidant, and Anticancer Activity of Wild Mushrooms" at the 39th Annual Meeting of the Mycological Society of India.
+**Master of Science (Microbiology)**
+Bangalore University, India — *2013*
+Advanced laboratory techniques including tissue culture and animal cell culture. Presented research at the 39th Annual Meeting of the Mycological Society of India ("Current Perspectives of Fungi in Health Care and Environment").
 
-**Bachelor of Science (Microbiology)**  
-Osmania University, India — *2010*  
-Academic project: "Isolation and Characterization of IgG from Human Serum." Participated in poster presentations and academic seminars.
+**Bachelor of Science (Microbiology)**
+Osmania University, India — *2010*
+Project: "Isolation and Characterisation of IgG from Human Serum." Poster presentations and academic seminars.
 
 ---
 
 ## Professional Learning, Certifications & Training
 
-- **STAVCON 2025** — Professional Learning: Transforming Science Education (Victorian Curriculum 2.0 rollout for 2026)
-- **Behavioral Leadership** — Workshops on strategies to improve student behaviour (2025)
-- **Child Safety, Wellbeing & Inclusion PL Day Workshops (2025):**
-  - Artificial intelligence in education: Opportunities and challenges
-  - Applied learning and your classroom
-  - Anxiety disorders and our students
-- **Child Safety Training** — Mandatory reporting, NCCD, Anaphylaxis, CPR, and Disability Training (2025)
+- **Bill Rogers Behaviour Management Series** — applied in classroom practice (2025–present)
+- **STAVCON 2025** — Transforming Science Education (Victorian Curriculum 2.0 rollout for 2026)
+- **Behavioural Leadership** — strategies to improve student behaviour (2025)
+- **Child Safety, Wellbeing & Inclusion PL Workshops (2025):** AI in education; applied learning in the classroom; anxiety disorders and students
+- **Child Safety Training** — Mandatory Reporting, NCCD, Anaphylaxis, CPR, Disability Training (2025)
 - **Instrumentation Techniques for Phytochemical Analysis** — Institute of Wood Science and Technology, India (2013)
-- **National Level Workshop on Animal Cell Culture Techniques** — Visvesvaraya Technological University, India (2012)
+- **National Workshop on Animal Cell Culture Techniques** — Visvesvaraya Technological University, India (2012)
 
 ---
 
 ## Publications
 
-- **Ganoderma applanatum (Persoon) Patouillard as a source of anticancer and antioxidant agent.**  
-  *International Journal of Pharma and Biosciences*, 5(2): (B) 276–282. April 2014.
+- **Ganoderma applanatum (Persoon) Patouillard as a source of anticancer and antioxidant agent.**
+  *International Journal of Pharma and Biosciences*, 5(2): (B) 276–282. April 2014. (ISSN 0975-6299)
 
-- **Antioxidant and anticancer activity of Tricholoma giganteum Massee an edible wild mushroom.**  
-  *Academic Journal of Cancer Research*, January 2014.
+- **Antioxidant and anticancer activity of Tricholoma giganteum Massee, an edible wild mushroom.**
+  *Academic Journal of Cancer Research*, January 2014. (ISSN 1995-8943)
 
-- **Evaluation of antimicrobial activity of some selected Basidiomycetous fungi**, 4(4): (B) 964–971.  
-  *International Journal of Pharma and Bio Sciences*, October 2013.
+- **Evaluation of antimicrobial activity of some selected Basidiomycetous fungi**, 4(4): (B) 964–971.
+  *International Journal of Pharma and Bio Sciences*, October 2013. (ISSN 0975-6299)
 
 ---
 
 ## References
 
-**Rosalie Harding**  
-Professional Practice Leader — St. Francis Xavier College  
+**Rosalie Harding**
+Professional Practice Leader — St. Francis Xavier College
 rharding@sfx.vic.edu.au | 0434 578 465
 
-**Melinda Davison**  
-Professional Practice Leader / Mentor — formerly St. Francis Xavier College, now Doveton College  
+**Melinda Davison**
+Professional Practice Leader / Mentor — formerly St. Francis Xavier College, now Doveton College
 melinda.davison@education.vic.gov.au | 0468 357 576

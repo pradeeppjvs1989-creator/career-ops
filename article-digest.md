@@ -112,6 +112,63 @@ This is the origin story of Pradeep's teaching identity. Designed entirely indep
 
 ---
 
+## Proof Point 7: Year 7 Dissections — A Campus First
+
+**What:** In 2026, Pradeep introduced dissection practicals at Year 7 level for the first time at the St Francis Xavier campus — a curriculum innovation he took on independently. No other teacher, past or present, had delivered this practical at Year 7.
+
+**How it ran:**
+- Planned and ran the practical with all his students, including two Year 7 classes (7E and 7D).
+- Students engaged exceptionally well — followed every instruction, handled the practical with care, and produced excellent work.
+- 7D, a group known to be challenging for other teachers, responded especially well; the structured nature of the dissection brought out their best.
+
+**Why it matters:** Shows initiative, curriculum innovation, and behaviour management through engagement rather than control. A concrete example of raising the bar for what younger students are capable of.
+
+**Use in applications when asked about:**
+- Curriculum innovation / going beyond the standard
+- Behaviour management (structure + engagement)
+- Practical science leadership
+
+---
+
+## Proof Point 8: The Pluck Dissection — Shared Across Campuses
+
+**What:** Pradeep developed and introduced an additional dissection — the "pluck" (respiratory and digestive system) practical — which had not been run at the College before. He shared it across both the Berwick and Officer campuses, with resources and instructions, and encouraged colleagues to adopt it (announced in the Science channel on Teams).
+
+**Why it matters:** Demonstrates collegiate leadership and department-level contribution, not just individual classroom work. Pradeep builds resources that lift the whole department, not only his own classes.
+
+**Use in applications when asked about:**
+- Collaboration and resource sharing
+- Informal leadership / influence
+- Contribution to the wider school community
+
+---
+
+## Proof Point 9: Curriculum Leadership — Two New 2027 Electives
+
+**What:** Pradeep submitted formal course proposals for two new 2027 elective subjects — **Biomedical Science**, and **Motion, Energy and Materials** — targeting Years 7–9.
+
+**Why it matters:** This is aspiring Head-of-Department behaviour: designing new courses, not just delivering existing ones. It signals readiness for curriculum leadership roles.
+
+**Use in applications when asked about:**
+- Curriculum design and leadership
+- Head of Science / HoD readiness
+- Initiative and forward planning
+
+---
+
+## Proof Point 10: Accessibility — Standard + PLP Versions
+
+**What:** Pradeep produces Standard and PLP (Personalised Learning Plan) versions of assessments and practicals across multiple year levels, shared across both campuses.
+
+**Why it matters:** Concrete evidence of differentiation and inclusive practice — not as a buzzword, but as a documented, repeated workflow that other teachers benefit from.
+
+**Use in applications when asked about:**
+- Differentiation and inclusive education
+- Support for diverse learners
+- Assessment design
+
+---
+
 ## Teaching Philosophy (summary for cover letters)
 
 Pradeep's teaching is built on three pillars:
