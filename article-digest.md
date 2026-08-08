@@ -188,6 +188,65 @@ This is the origin story of Pradeep's teaching identity. Designed entirely indep
 
 ---
 
+## Proof Point 12: Water Rockets & Altitude Tracking — New Y7 Forces Prac (colleague adoption)
+
+**What:** Pradeep designed a new structured, hands-on practical for the Year 7 Forces topic:
+students investigate thrust, gravity and aerodynamics using Liquifly water rockets paired with
+Mini AltiTrak altitude trackers to gather quantitative data. Students act as aerospace engineers,
+manipulating two variables (fuel/water mass; bottle shape/size) and measuring peak altitude to
+reason about applied forces — "visualising applied forces in action rather than diagramming them
+on a whiteboard."
+
+**Documented impact — colleagues adopting his work:** He shared the concept in the Science
+(Junior School) Teams channel (20 July 2026). Colleague Swati Joshi replied publicly: "great
+ideas here… I will be doing the rocketry unit with my STEM class next term. Please go ahead and
+order two." This is concrete, dated evidence of Pradeep influencing another teacher's practice.
+
+**Why it matters:** Real instructional leadership — he designs strong practice AND other teachers
+adopt it. Also shows data-informed pedagogy (quantitative altitude data) and resourcefulness
+(coordinating equipment orders across STEM).
+
+**Use for:** Instructional leadership/coaching, curriculum design, team culture, data-informed practice.
+
+---
+
+## Proof Point 13: Project Hail Mary — Curriculum Activity & Exemplary Duty of Care
+
+**What:** For Year 9 Astronomy/Earth Cycles, Pradeep's planned planetarium excursion couldn't be
+run this year. Rather than lose the opportunity, he proposed screening the film *Project Hail Mary*
+(2026) as a structured, worksheet-supported classroom activity mapped directly to the curriculum —
+two 70-minute sessions with three worksheets (before/during/after) that turn "watching a movie"
+into an assessable learning activity. He requested formal approval from Lachlan Cove, Director of
+Learning & Growth – Berwick.
+
+**Exemplary judgment (duty of care):** In his written request he proactively addressed the PG-13
+rating — checking independent classification and parent-guide reviews, noting content cautions,
+offering advance parent/guardian notification and an opt-out alternative activity. The Director
+approved it and helped draft the parent letter. His original email is a model of professional,
+thorough, curriculum-linked communication.
+
+**Why it matters:** Hits several leadership criteria at once — curriculum design, communication,
+initiative within constraints, and textbook child-safety/duty-of-care judgment — all documented
+and visible to a senior College leader.
+
+**Use for:** Curriculum leadership, communication, child safety & duty of care, initiative/school improvement.
+
+---
+
+## Proof Point 14: Termly Updates to Leadership (self-initiated)
+
+**What:** Pradeep started a self-initiated practice of sending a short end-of-term/semester update
+to leadership (e.g. End-of-Semester Update — Science to Julie Banda, 26 June 2026) summarising work
+that goes beyond the standard program, so leaders have visibility of what's happening across his classes.
+
+**Why it matters:** Shows professional communication, transparency and initiative — and directly
+addresses the earlier concern that "little was on record" about his work. He is now putting his
+contributions on the record proactively and professionally.
+
+**Use for:** Communication, professional relationships, self-management, contribution to the College.
+
+---
+
 ## Teaching Philosophy (summary for cover letters)
 
 Pradeep's teaching is built on three pillars:

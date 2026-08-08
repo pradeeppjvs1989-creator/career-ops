@@ -44,6 +44,9 @@ Secondary Science teacher and published research scientist who brings the labora
 - Developed and introduced an additional **"pluck" dissection** (respiratory and digestive systems) — also a first for the College — and shared it across both the Berwick and Officer campuses with full resources and instructions, encouraging colleagues to adopt it (announced in the Science Teams channel).
 - Consistently run hands-on practicals across all year levels, beyond what is standard or required, to lift the depth and engagement of practical Science.
 - Ran a voluntary lunchtime science help session — with Head of Education approval — for students from *other* teachers' classes who sought me out for help, sharing my own notes and resources.
+- Designed a new Year 7 Forces practical (water rockets + altitude tracking) shared with the department; a colleague adopted it for their STEM class.
+- Proposed and gained approval for a curriculum-mapped, worksheet-supported *Project Hail Mary* film activity for Year 9 Astronomy, with proactive duty-of-care handling (classification check, parent notification, opt-out).
+- Initiated a termly written update to leadership summarising work beyond the standard program.
 - Redesigned Year 7–9 Science units around a visual-first approach (custom animations, AI-generated illustrations, cinematic presentations), **increasing class average scores by 25%**.
 
 **Resource Development**
