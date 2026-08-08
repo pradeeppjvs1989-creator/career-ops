@@ -169,6 +169,25 @@ This is the origin story of Pradeep's teaching identity. Designed entirely indep
 
 ---
 
+## Proof Point 11: Voluntary Lunchtime Tutoring — Students Who Aren't Even His Own
+
+**What:** A group of students who were *not* in Pradeep's classes approached him for help — they were struggling to understand some science concepts from their own teacher's lessons. Pradeep went to the Head of Education, requested approval to give up a lunchtime to run a short science help session for them, and was granted it. He ran the session and gave the students his own notes and resources.
+
+**Why it matters:** This is one of the most telling proof points in the whole set, because it wasn't assigned, wasn't required, and wasn't for his own students. It shows:
+- **Reputation among students** — learners sought him out by name, across class boundaries, because they trust him to make things click.
+- **Generosity and dedication** — he gave up personal time and shared his own resources freely.
+- **Subject mastery and clarity** — students turned to him specifically because he explains concepts in a way they understand.
+- **Professional integrity** — he sought proper approval from the Head of Education rather than acting unilaterally.
+
+**Use in applications when asked about:**
+- Going above and beyond / dedication to students
+- Rapport and relationships with students
+- Reputation and informal influence
+- Willingness to support the wider student body, not just your own classes
+- "Tell us about a time you went out of your way for a student"
+
+---
+
 ## Teaching Philosophy (summary for cover letters)
 
 Pradeep's teaching is built on three pillars:

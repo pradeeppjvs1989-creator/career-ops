@@ -43,6 +43,7 @@ Secondary Science teacher and published research scientist who brings the labora
 - Introduced **dissection practicals at Year 7 level for the first time at the campus** — a curriculum innovation delivered independently. No other teacher, past or present, had run this practical at Year 7. Planned and led the practical with all classes, including two Year 7 groups; students followed every instruction, handled specimens with care, and produced excellent work.
 - Developed and introduced an additional **"pluck" dissection** (respiratory and digestive systems) — also a first for the College — and shared it across both the Berwick and Officer campuses with full resources and instructions, encouraging colleagues to adopt it (announced in the Science Teams channel).
 - Consistently run hands-on practicals across all year levels, beyond what is standard or required, to lift the depth and engagement of practical Science.
+- Ran a voluntary lunchtime science help session — with Head of Education approval — for students from *other* teachers' classes who sought me out for help, sharing my own notes and resources.
 - Redesigned Year 7–9 Science units around a visual-first approach (custom animations, AI-generated illustrations, cinematic presentations), **increasing class average scores by 25%**.
 
 **Resource Development**
