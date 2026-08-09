@@ -3,6 +3,7 @@
 
 candidate:
   full_name: "Pradeep Penugonda"
+  full_legal_name: "Pradeep Penugonda Jwala Venkata Shiva"  # as on VIT/accreditation records; forms may require this
   email: "penugonda56@outlook.com"  # CONFIRMED — sole professional email for all applications, CV, LinkedIn
   phone: "+61 452 668 984"
   location: "Carnegie VIC 3163, Melbourne, Australia"
@@ -10,14 +11,44 @@ candidate:
   linkedin: "linkedin.com/in/penugondapradeep"
   portfolio_url: "https://penugondapradeep.weebly.com/"
   philosophy_site: "https://infinitelearning.au/ (under construction)"
-  vit_registration: "727895"
+  vit_registration: "727895 (PROVISIONAL — completing full registration; inquiry evidence near complete)"
   wwcc: "TBC — add before submitting applications"
+
+# ── Catholic-school credentials (needed for Catholic school applications) ──
+catholic_accreditation:
+  teach_in_catholic_school: "Working towards — 23 of 25 hours complete (Diocese of Sale TAP); due 16/10/2030"
+  teach_religious_education: "No / not yet enrolled"
+  lead_in_catholic_school: "No / not yet — committed to pursuing for leadership roles"
+  authority: "Diocese of Sale Catholic Education Ltd (DOSCEL); platform = TAP on CEVN"
+  honest_line: "Accreditation to Teach in a Catholic School: working towards; committed to progressing to Teach RE and to Lead as required."
+
+referees:
+  - name: "Rosalie Harding"
+    role: "Professional Practice Leader / formal mentor — St Francis Xavier College"
+    email: "rharding@sfx.vic.edu.au"
+    phone: "0434 578 465"
+    vit: "190255"
+  - name: "Melinda Davison"
+    role: "Former PRT coordinator / mentor — formerly SFX, now Doveton College"
+    email: "melinda.davison@education.vic.gov.au"
+    phone: "0468 357 576"
+    vit: "369227"
+  - name: "Genelle Jones"
+    role: "Experienced Science teacher, SFX — formally observed his teaching (coaching evidence)"
+    vit: "710183"
+
+faith_life:  # for Catholic school 'Catholic Identity' criteria — all genuine, do not embellish
+  - "Attends College Masses, liturgies and whole-school faith events"
+  - "Member of Bosco House; in care group, takes turns preparing & reading the Acknowledgement of Country and a prayer before the whole House (~every 4 weeks)"
+  - "Lives College values through service — voluntary lunchtime support for struggling students beyond his own classes"
+  - "NOTE: has NOT led at the forefront of Masses/whole-school events — attends those. Be honest about this."
 
 target_roles:
   primary:
     - "Secondary Science Teacher (Years 7–12)"
     - "Head of Science / Head of Department (Science)"
     - "Leading Teacher — Science / STEM"
+    - "Learning & Teaching Leader / Instructional Coach (Science) — POL, applied SFX 2026"
   archetypes:
     - name: "Classroom Science Teacher"
       level: "Experienced (3+ years)"
@@ -70,6 +101,23 @@ narrative:
     - "Commute > 15km (unless very prestigious school)"
     - "CRT / casual / fixed-term / part-time roles"
     - "Non-science subject allocation (Maths, HPE, etc.)"
+
+# ── Current employer context (reusable facts for applications/interviews) ──
+current_employer:
+  name: "St Francis Xavier College (SFX)"
+  campuses: "Berwick, Officer, Beaconsfield"
+  system: "Catholic — Diocese of Sale (DOSCEL); EA = DOSCEL Schools & Secretariat Agreement 2022"
+  size: "~3,278 students Years 7–12; ~284 teachers; ICSEA 1041 (65th percentile); ~33% LBOTE"
+  values: "Respect, Curiosity, Gratitude, Hope"
+  motto: "\"The glory of God is a person fully formed\" (St Irenaeus)"
+  strategic_plan: "2025–2028 'Game Plan' — 5 pillars: Catholic Identity, Inclusive Community, Positive Learning Partnerships, Wellbeing for Learning, Learning Growth ('a pathway for all'). Staff focus: Clarity, Capability, Collective Efficacy."
+  learning_growth_actions: "Teachers know all students as learners; plan & implement effective teaching; reflect on practice through a cycle of inquiry."
+  systems_tools: "SIMON (assessment/attendance/pastoral), Stile (digital lessons), ATLAS (curriculum docs), SharePoint (resources), College Instructional Model (TPM)"
+  key_people:
+    - "Lachlan Cove — Director of Learning & Growth, Berwick (approves initiatives; drafted parent letter)"
+    - "Julie Banda — leader Pradeep sends termly Science updates to"
+    - "Rosalie Harding — mentor; Genelle Jones & Jude Ambrose — observing colleagues; Swati Joshi — adopted his rocketry unit"
+  house: "Bosco House (care-group system)"
 
 compensation:
   target_range: "AUD $90,000–$115,000 + super"
