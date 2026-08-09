@@ -247,6 +247,41 @@ contributions on the record proactively and professionally.
 
 ---
 
+## Proof Point 15: VIT Full-Registration Inquiry — Data-Informed Practice (Proficient level)
+
+**What:** For his move from provisional to full VIT registration, Pradeep ran a formal cycle of inquiry:
+*"To what extent does the use of structured, inquiry-based practicals improve Year 7 students'
+engagement and application of Science Inquiry Skills in the topic of Separation Techniques?"* (Class 7A,
+28 students, 6 on PLPs, Berwick Campus, Semester 2 2025.)
+
+**How rigorous:**
+- **Triangulated data**: NAPLAN 2025, PAT Adaptive Maths & Reading, semester progression points, a
+  T1T1 diagnostic (class median 51%), and SIMON attendance/pastoral records — to profile the class and
+  three deidentified focus students.
+- **Redesigned every lesson** around a consistent 10-20-20-20 cycle (settling/LI, chunked instruction,
+  structured practical, after-practical quick assessment with immediate feedback).
+- **Measured against three independent instruments** (Practical Skills Observation Checklist; Stile
+  16-item quiz with rubric; summative Formal Lab Report on shared faculty rubric) plus a T2T2 test —
+  not a single measure.
+- **Coaching both ways**: observed colleague Genelle Jones's lesson and rebuilt his own pacing from it;
+  structured mentor conversations with Rosalie Harding; VIT-process guidance from Melinda Davison.
+- **Success criteria** set in advance: ≥70% of 7A Competent on the Formal Lab Report; class median T2T2
+  ≥10 percentage points above the 51% baseline; attendance up on the 82% Sem 1 average.
+- Mapped to APST Proficient descriptors (esp. Standard 3.3, 3.6, 5.4).
+
+**Why it matters:** Concrete, documented evidence of data-informed practice, inquiry, coaching exposure,
+inclusive practice (First Nations separation science; EAL vocabulary scaffolds; PLP adjustments), and
+rigorous child safety (PROTECT, Four Critical Actions, scripted safety briefings, 24-hour SIMON logging).
+Directly supports the College's Strategic Plan action "teachers reflect on practice through a cycle of inquiry."
+
+**Note:** As of the shared template, the design/baseline/success-criteria are complete; the final
+outcomes/reflection were not yet written up.
+
+**Use for:** Data-informed practice (C4), instructional leadership/coaching (C2), child safety (C8),
+curriculum & pedagogy (C3), alignment with Strategic Plan (C6).
+
+---
+
 ## Teaching Philosophy (summary for cover letters)
 
 Pradeep's teaching is built on three pillars:

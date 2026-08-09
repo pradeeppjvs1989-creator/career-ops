@@ -5,7 +5,7 @@
 **Phone:** +61 452 668 984
 **LinkedIn:** linkedin.com/in/penugondapradeep
 **Portfolio:** https://penugondapradeep.weebly.com/
-**VIT Registration:** 727895
+**VIT Registration:** 727895 (provisional — completing full registration)
 
 ---
 
