@@ -28,4 +28,3 @@ she replies; tick page 5 disclosures (No/No/No/Yes); read Appendix 1, sign + dat
 Secular elite independent, South Yarra. Apply via the EOI listing OR the Taleo Employment Opportunities
 page; upload CV + cover letter. Recruiter: Daniel Colclough (HR Recruitment Lead). Only needs CV + cover letter.
 EOI reviewed on receipt — no deadline. Provisional VIT accepted ("or ability to gain VIT").
-EOFmark
