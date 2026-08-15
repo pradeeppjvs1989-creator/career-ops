@@ -12,6 +12,7 @@ network-blocked to the assistant — user supplies job details (paste/screenshot
 | — | applied | Learning & Teaching Leader – Science (POL 3) | St Francis Xavier (internal) | POL, 2027–30 | closed Mon 10 Aug | Package complete |
 | 7 | SEEK 93681702 | **St Bede's College — EOI 2027** (Science) | Mentone (~8km) | Full-time EOI (rolling) | No fixed date | ✅ Docs built (cover letter, résumé, form filled) — awaiting Rosalie's email + signature, then submit |
 | 1 | LinkedIn 4441116787 / SEEK 93380364 | **Melbourne Grammar — EOI Secondary 2027** (all subjects → Science) | South Yarra (~12km) | Part/Full-time EOI (rolling) | No fixed date ("reviewed on receipt") | ✅ Cover letter built — pair with résumé, submit via Taleo/EOI listing |
+| — | user | **Camberwell Grammar — EOI Teaching 2027** (Science) | Canterbury (~10km) | Ongoing/fixed EOI (rolling) | No fixed date ("reviewed as received") | ✅ Cover letter built — pair with résumé, apply direct (NO agencies) |
 | — | scan | "Catholic girls' school" (masked) — Science permanent | Melbourne | Permanent from Term 3 2026 | Unknown | Needs ID |
 | — | scan | Sacred Heart College — EOI | Geelong (too far) | EOI | Fri 14 Aug 2026 | Skip (distance) |
 | 2 | LinkedIn 4443688213 | ? | ? | ? | ? | Need details |
