@@ -8,12 +8,12 @@ network-blocked to the assistant — user supplies job details (paste/screenshot
 
 | # | Source | Role / School | Location | Type | Deadline | Status |
 |---|--------|---------------|----------|------|----------|--------|
-| ★1 | SEEK 93807731 | **Melbourne Grammar — Teacher of Science (Yrs 7–12)** ONGOING | South Yarra (~12km) | Full-time ongoing, Term 1 2027 | **Sun 23 Aug 2026** (may appoint earlier — apply SOON) | ✅ Cover letter built — pair with résumé, apply via 'Apply Now' portal |
+| ★1 | SEEK 93807731 | **Melbourne Grammar — Teacher of Science (Yrs 7–12)** ONGOING | South Yarra (~12km) | Full-time ongoing, Term 1 2027 | Sun 23 Aug 2026 | ✅✅ **APPLIED** |
 | — | applied | Learning & Teaching Leader – Science (POL 3) | St Francis Xavier (internal) | POL, 2027–30 | closed Mon 10 Aug | Package complete |
-| 7 | SEEK 93681702 | **St Bede's College — EOI 2027** (Science) | Mentone (~8km) | Full-time EOI (rolling) | No fixed date | ✅ Docs built (cover letter, résumé, form filled) — awaiting Rosalie's email + signature, then submit |
+| 7 | SEEK 93681702 | **St Bede's College — EOI 2027** (Science) | Mentone (~8km) | Full-time EOI (rolling) | No fixed date | ✅✅ **APPLIED** |
 | 1 | LinkedIn 4441116787 / SEEK 93380364 | **Melbourne Grammar — EOI Secondary 2027** (all subjects → Science) | South Yarra (~12km) | Part/Full-time EOI (rolling) | No fixed date ("reviewed on receipt") | ✅ Cover letter built — pair with résumé, submit via Taleo/EOI listing |
 | ★2 | user | **Trinity Grammar — EOI Secondary 2027** (Science; Chem-adjacent) | Kew (~15km) | Full-time EOI ($100–137k) | **4pm Wed 26 Aug 2026** | ✅ Cover letter built (to Principal A. Farrer) — weaker subject fit (they want Chem/Maths/etc., not Bio); apply as Science + chemistry depth |
-| — | user | **Camberwell Grammar — EOI Teaching 2027** (Science) | Canterbury (~10km) | Ongoing/fixed EOI (rolling) | No fixed date ("reviewed as received") | ✅ Cover letter built — pair with résumé, apply direct (NO agencies) |
+| — | user | **Camberwell Grammar — EOI Teaching 2027** (Science) | Canterbury (~10km) | Ongoing/fixed EOI (rolling) | No fixed date | ✅✅ **APPLIED** |
 | — | scan | "Catholic girls' school" (masked) — Science permanent | Melbourne | Permanent from Term 3 2026 | Unknown | Needs ID |
 | — | scan | Sacred Heart College — EOI | Geelong (too far) | EOI | Fri 14 Aug 2026 | Skip (distance) |
 | 2 | LinkedIn 4443688213 | ? | ? | ? | ? | Need details |
