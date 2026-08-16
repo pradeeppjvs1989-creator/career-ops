@@ -4,10 +4,14 @@
 roles, leadership/POL, Catholic & independent schools). Pull from here so nothing is rebuilt from
 scratch. Pair with `cv.md`, `article-digest.md` (proof points 1–15), and `config/profile.yml`.
 
-**Voice rule:** Write applications in a natural, human, first-person voice — plain, direct, a bit
-understated. Avoid AI-tells (em-dash overload, rule-of-three, "passionate/robust/leverage/foster").
-Lead each answer with a concrete action or number, not a claim. Never inflate; a real modest result
-beats a shiny vague one, especially where a panel can verify it.
+**Voice rule (STANDING — apply to EVERY cover letter):** Write in a natural, human, first-person
+voice as human-sounding as possible. Plain, direct, a bit understated. **NO em dashes at all** (use
+commas, colons, parentheses, full stops). Avoid AI-tells (rule-of-three, "passionate/robust/leverage/
+foster/tapestry/testament"). Vary sentence length. Lead each answer with a concrete action or number,
+not a claim. Never inflate; a real modest result beats a shiny vague one, especially where a panel can
+verify it. Every letter is built from Pradeep's REAL evidence in his own voice — so it is genuinely his,
+not a generic AI draft. He should read each aloud, tweak anything that does not sound like him, and be
+able to speak to every line in an interview.
 
 ---
 

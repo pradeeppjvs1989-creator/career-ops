@@ -15,6 +15,10 @@ network-blocked to the assistant — user supplies job details (paste/screenshot
 | ★2 | user | **Trinity Grammar — EOI Secondary 2027** (Science; Chem-adjacent) | Kew (~15km) | Full-time EOI ($100–137k) | **4pm Wed 26 Aug 2026** | ✅ Cover letter built (to Principal A. Farrer) — weaker subject fit (they want Chem/Maths/etc., not Bio); apply as Science + chemistry depth |
 | — | user | **Caulfield Grammar — EOI Secondary 2027** (Science) | Caulfield (~2km!) / Wheelers Hill | EOI (rolling), 13% super | No fixed date | ✅ Cover letter built — STRONG fit (closest to home, Science welcomed); pair with résumé, apply via website |
 | — | user | **Camberwell Grammar — EOI Teaching 2027** (Science) | Canterbury (~10km) | Ongoing/fixed EOI (rolling) | No fixed date | ✅✅ **APPLIED** |
+| ★3 | scan | **Wesley College — Physics & Science Teacher** ONGOING | St Kilda Rd (~10km) | Full-time ongoing, Jan 2027 | **5pm Wed 26 Aug 2026** | NEW — Physics-leaning (weaker fit); via isRecruit |
+| — | scan | **Carey Grammar — EOI 2027** (all areas incl. Science) | Kew (~15km) | EOI (rolling) | No fixed date | NEW — worth an EOI |
+| — | scan | **Xavier College — EOI 2027** (Catholic, Jesuit boys) | Kew (~15km) | EOI (rolling) | No fixed date | NEW — worth an EOI |
+| — | scan | Secondary Science Teacher 2027 (govt) | careers.vic 66814 | Unknown | Unknown | NEW — check location |
 | — | scan | "Catholic girls' school" (masked) — Science permanent | Melbourne | Permanent from Term 3 2026 | Unknown | Needs ID |
 | — | scan | Sacred Heart College — EOI | Geelong (too far) | EOI | Fri 14 Aug 2026 | Skip (distance) |
 | 2 | LinkedIn 4443688213 | ? | ? | ? | ? | Need details |
