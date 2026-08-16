@@ -13,6 +13,7 @@ network-blocked to the assistant — user supplies job details (paste/screenshot
 | 7 | SEEK 93681702 | **St Bede's College — EOI 2027** (Science) | Mentone (~8km) | Full-time EOI (rolling) | No fixed date | ✅✅ **APPLIED** |
 | 1 | LinkedIn 4441116787 / SEEK 93380364 | **Melbourne Grammar — EOI Secondary 2027** (all subjects → Science) | South Yarra (~12km) | Part/Full-time EOI (rolling) | No fixed date ("reviewed on receipt") | ✅ Cover letter built — pair with résumé, submit via Taleo/EOI listing |
 | ★2 | user | **Trinity Grammar — EOI Secondary 2027** (Science; Chem-adjacent) | Kew (~15km) | Full-time EOI ($100–137k) | **4pm Wed 26 Aug 2026** | ✅ Cover letter built (to Principal A. Farrer) — weaker subject fit (they want Chem/Maths/etc., not Bio); apply as Science + chemistry depth |
+| — | user | **Caulfield Grammar — EOI Secondary 2027** (Science) | Caulfield (~2km!) / Wheelers Hill | EOI (rolling), 13% super | No fixed date | ✅ Cover letter built — STRONG fit (closest to home, Science welcomed); pair with résumé, apply via website |
 | — | user | **Camberwell Grammar — EOI Teaching 2027** (Science) | Canterbury (~10km) | Ongoing/fixed EOI (rolling) | No fixed date | ✅✅ **APPLIED** |
 | — | scan | "Catholic girls' school" (masked) — Science permanent | Melbourne | Permanent from Term 3 2026 | Unknown | Needs ID |
 | — | scan | Sacred Heart College — EOI | Geelong (too far) | EOI | Fri 14 Aug 2026 | Skip (distance) |
