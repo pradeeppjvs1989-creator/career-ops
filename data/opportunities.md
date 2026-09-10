@@ -16,8 +16,9 @@ network-blocked to the assistant — user supplies job details (paste/screenshot
 | — | user | **Caulfield Grammar — EOI Secondary 2027** (Science) | Caulfield (~2km!) / Wheelers Hill | EOI (rolling), 13% super | No fixed date | ✅ Cover letter built — STRONG fit (closest to home, Science welcomed); pair with résumé, apply via website |
 | — | user | **Camberwell Grammar — EOI Teaching 2027** (Science) | Canterbury (~10km) | Ongoing/fixed EOI (rolling) | No fixed date | ✅✅ **APPLIED** |
 | ★3 | scan | **Wesley College — Physics & Science Teacher** ONGOING | St Kilda Rd (~10km) | Full-time ongoing, Jan 2027 | **5pm Wed 26 Aug 2026** | NEW — Physics-leaning (weaker fit); via isRecruit |
-| — | scan | **Carey Grammar — EOI 2027** (all areas incl. Science) | Kew (~15km) | EOI (rolling) | No fixed date | NEW — worth an EOI |
-| — | scan | **Xavier College — EOI 2027** (Catholic, Jesuit boys) | Kew (~15km) | EOI (rolling) | No fixed date | NEW — worth an EOI |
+| ★ | scan | **Carey Baptist Grammar — EOI Science 2027** | Kew, 349 Barkers Rd (~13km) | EOI (rolling) | No fixed date | ✅ Cover letter built — **BEST ROLE FIT.** Middle School = Yrs 7–9, one campus, co-ed, Senior 10–12 on site. Secular in practice: faith criteria never tested. Downside: huge applicant field, no structural edge |
+| ★ | scan | **Xavier College — EOI Science 2027** (Jesuit Catholic, boys) | Kew, 135 Barkers Rd (~13km) | EOI (rolling) | No fixed date | ✅ Cover letter built — **BEST ODDS.** Catholic-sector currency (3 yrs SFX + 23/25 DOSCEL hrs). Downsides: band split across Burke Hall (3yo–Yr8) and Senior Campus (9–12, all boys + boarding); heavy Saturday co-curricular; faith gap exposed |
+| — | user | **Casey Grammar — Junior School Teacher (F–6)** | Cranbourne East (~48km) | Full-time | Sep 2025 PD | ❌ **SKIP** — PD is generalist F–6, not Science; commute worse than Berwick. Flagged to user 10 Sep |
 | — | scan | Secondary Science Teacher 2027 (govt) | careers.vic 66814 | Unknown | Unknown | NEW — check location |
 | — | scan | "Catholic girls' school" (masked) — Science permanent | Melbourne | Permanent from Term 3 2026 | Unknown | Needs ID |
 | — | scan | Sacred Heart College — EOI | Geelong (too far) | EOI | Fri 14 Aug 2026 | Skip (distance) |
@@ -31,6 +32,12 @@ network-blocked to the assistant — user supplies job details (paste/screenshot
 ## St Bede's (link 7) — how to submit
 Cover letter + résumé + filled application form + VIT, all via SEEK. Form: fill Rosalie's email/org when
 she replies; tick page 5 disclosures (No/No/No/Yes); read Appendix 1, sign + date page 6.
+
+## Carey & Xavier — how to submit
+Both are rolling EOIs in Kew, both need CV + cover letter only. Letters addressed to **Head of People
+and Culture** (safe for an EOI, which goes to HR not the Principal). Names found but NOT verified:
+Carey Principal reported as Jonathan Walter; Xavier sources conflict (Lee MacMaster vs William Doherty)
+— do not use a name unless Pradeep confirms it off the school's own site.
 
 ## Melbourne Grammar (link 1) — how to submit
 Secular elite independent, South Yarra. Apply via the EOI listing OR the Taleo Employment Opportunities

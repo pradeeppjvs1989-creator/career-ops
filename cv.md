@@ -11,7 +11,7 @@
 
 ## Professional Summary
 
-Secondary Science teacher and published research scientist who brings the laboratory into the classroom. Three years teaching Years 7–9 Science at St Francis Xavier College, on top of a research career spanning three peer-reviewed publications, a High Distinction MSc in Biotechnology & Bioinformatics, and professional microbiology QC experience. Known for a visual-first, practical-first pedagogy that lifted class averages by 25%, and for pioneering hands-on practicals — including Year 7 dissections delivered for the first time at the campus. Curriculum innovator: authored formal proposals for two new 2027 electives and shares professionally designed resources across campuses. VCE Biology–ready, Victorian Curriculum 2.0–trained, and driven by one belief: students learn science best when they can see it and do it.
+Secondary Science teacher and published research scientist who brings the laboratory into the classroom. Three years teaching Years 7–9 Science at St Francis Xavier College, on top of a research career spanning three peer-reviewed publications, a High Distinction MSc in Biotechnology & Bioinformatics, and professional microbiology QC experience. Known for a visual-first, practical-first pedagogy that lifted a Year 7 class median from a 51% baseline to 70% across a documented cycle of inquiry, and for pioneering hands-on practicals — including Year 7 dissections delivered for the first time at the campus. Curriculum innovator: authored formal proposals for two new 2027 electives and shares professionally designed resources across campuses. VCE Biology–ready, Victorian Curriculum 2.0–trained, and driven by one belief: students learn science best when they can see it and do it.
 
 ---
 
@@ -47,7 +47,8 @@ Secondary Science teacher and published research scientist who brings the labora
 - Designed a new Year 7 Forces practical (water rockets + altitude tracking) shared with the department; a colleague adopted it for their STEM class.
 - Proposed and gained approval for a curriculum-mapped, worksheet-supported *Project Hail Mary* film activity for Year 9 Astronomy, with proactive duty-of-care handling (classification check, parent notification, opt-out).
 - Initiated a termly written update to leadership summarising work beyond the standard program.
-- Redesigned Year 7–9 Science units around a visual-first approach (custom animations, AI-generated illustrations, cinematic presentations), **increasing class average scores by 25%**.
+- Redesigned Year 7–9 Science units around a visual-first approach (custom animations, AI-generated illustrations, cinematic presentations) to free class time for practical work.
+- Ran a formal cycle of inquiry (Year 7, 28 students, 6 on PLPs) measured against three independent instruments: **class median rose from a 51% baseline to 70%**, and students scoring 80%+ went from 0 to 11 of 28.
 
 **Resource Development**
 - Produced high-quality, professionally designed teaching presentations using advanced educational-technology and design software (Apple Motion, AI illustration tools).
@@ -133,8 +134,8 @@ Project: "Isolation and Characterisation of IgG from Human Serum." Poster presen
 ## References
 
 **Rosalie Harding**
-Professional Practice Leader — St. Francis Xavier College
-rharding@sfx.vic.edu.au | 0434 578 465
+Pedagogical Coach — St. Peter's College (former mentor/supervisor, St. Francis Xavier College)
+rharding@stpeters.vic.edu.au | 0434 578 465
 
 **Melinda Davison**
 Professional Practice Leader / Mentor — formerly St. Francis Xavier College, now Doveton College

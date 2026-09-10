@@ -41,7 +41,7 @@ This is the origin story of Pradeep's teaching identity. Designed entirely indep
 - **Flowcharts and mind maps** as primary content delivery tools
 - **Cinematic PowerPoints** — not bulleted slides, but story-driven, visually rich presentations
 
-**Result:** Class average scores increased by 25%.
+**Result:** ~~Class average scores increased by 25%.~~ **RETIRED — DO NOT USE IN ANY APPLICATION.** The 25% figure came from Pradeep's original CV and has no underlying data he can produce, so it cannot be defended if a panel asks. For a measurable outcome, use Proof Point 15 instead (class median 51% baseline → 70%, three independent instruments, documented).
 
 **The philosophy:** The visual layer teaches the theory efficiently so students can spend more class time on the hands-on work — practicals, dissections, experiments. Tech is the scaffold, not the whole experience.
 

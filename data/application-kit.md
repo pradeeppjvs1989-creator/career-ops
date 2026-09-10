@@ -29,7 +29,7 @@ able to speak to every line in an interview.
 
 | Metric | Detail |
 |--------|--------|
-| **+25%** | Class-average lift after visual-first unit redesign (Apple Motion animations) |
+| ~~+25%~~ | **RETIRED — DO NOT USE.** Class-average lift after visual-first redesign. Traced to Pradeep's original CV; no underlying data he can produce, so it cannot be defended to a panel. Use the 51%→70% median instead. |
 | **Median 51% → 70%** | Year 7 (7A) inquiry — Separation Techniques unit, Semester 2 2025 |
 | **0 → 11 of 28** | Students scoring 80%+ (baseline vs T2T2) in that unit; 40–59% band fell 15 → 5 |
 | **27% → 90%** | Focus student who took the open-ended extension (largest gain) |
