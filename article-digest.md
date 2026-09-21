@@ -169,9 +169,24 @@ This is the origin story of Pradeep's teaching identity. Designed entirely indep
 
 ---
 
-## Proof Point 11: Voluntary Lunchtime Tutoring — Students Who Aren't Even His Own
+## Proof Point 11: Open Lunchtime Science Support — Any Student in the College
 
-**What:** A group of students who were *not* in Pradeep's classes approached him for help — they were struggling to understand some science concepts from their own teacher's lessons. Pradeep went to the Head of Education, requested approval to give up a lunchtime to run a short science help session for them, and was granted it. He ran the session and gave the students his own notes and resources.
+**⭐ STANDING ITEM — include in EVERY cover letter and on the résumé. User instruction, 21 Sep 2026.**
+
+**What:** This is **not a one-off session. It is an ongoing, open service.** Pradeep sought and received
+Head of Education approval, and now gives up lunchtimes to help **any student in the College** who is
+struggling with science, regardless of whose class they are in. Students from other teachers' classes
+seek him out by name, and **some book appointments with him in advance**. He shares his own notes and
+resources with them. None of it is allocated, timetabled or counted in his load.
+
+**How to phrase it (approved wording):**
+> I run a voluntary lunchtime science support service, approved by our Head of Education and open to
+> any student in the College rather than only my own classes. Students from other teachers' classes
+> seek me out, some booking a time in advance, and I share my own notes and resources with them.
+
+**Earlier, narrower version (superseded):** originally recorded as a single approved session for one
+group of students. The user clarified on 21 Sep 2026 that it is ongoing and college-wide. Use the
+broader framing.
 
 **Why it matters:** This is one of the most telling proof points in the whole set, because it wasn't assigned, wasn't required, and wasn't for his own students. It shows:
 - **Reputation among students** — learners sought him out by name, across class boundaries, because they trust him to make things click.

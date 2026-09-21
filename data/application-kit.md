@@ -4,6 +4,14 @@
 roles, leadership/POL, Catholic & independent schools). Pull from here so nothing is rebuilt from
 scratch. Pair with `cv.md`, `article-digest.md` (proof points 1–15), and `config/profile.yml`.
 
+**CONTENT RULE (STANDING — user instruction, 21 Sep 2026): every cover letter and the résumé MUST
+include the open lunchtime science support service.** Not as a one-off anecdote: it is an *ongoing*
+service, approved by the Head of Education, open to **any student in the College** rather than only his
+own classes, with students from other teachers' classes seeking him out and **booking appointments**.
+It is his strongest "above and beyond" evidence because nobody assigned it and nobody counts it. Place
+it wherever the school's own language invites it (service, community, pastoral care, going beyond the
+classroom, relationships with students). Approved wording is in `article-digest.md` Proof Point 11.
+
 **Voice rule (STANDING — apply to EVERY cover letter):** Write in a natural, human, first-person
 voice as human-sounding as possible. Plain, direct, a bit understated. **NO em dashes at all** (use
 commas, colons, parentheses, full stops). Avoid AI-tells (rule-of-three, "passionate/robust/leverage/
