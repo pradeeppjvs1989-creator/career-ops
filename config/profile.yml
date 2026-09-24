@@ -3,7 +3,14 @@
 
 candidate:
   full_name: "Pradeep Penugonda"
-  full_legal_name: "Pradeep Penugonda Jwala Venkata Shiva"  # as on VIT/accreditation records; forms may require this
+  full_legal_name: "Pradeep Penugonda Jwala Venkata Shiva"  # as printed on VU testamur, 3 Feb 2023
+  # NAME SPLIT FOR OFFICIAL FORMS (police checks, VIT, DET Recruitment Online):
+  # Victoria University's AITSL letter addresses him as "Mr Penugonda Jwala Venkata Shiva",
+  # i.e. it treats PENUGONDA JWALA VENKATA SHIVA as the family name and PRADEEP as the given name.
+  # => Given Name(s): "Pradeep"  |  Surname: "Penugonda Jwala Venkata Shiva"
+  # CONFIRM against passport before submitting anything that triggers a police check.
+  # "Pradeep Penugonda" remains the professional/display name (email, LinkedIn, CV, letters).
+  vu_student_id: "4626764"
   email: "penugonda56@outlook.com"  # CONFIRMED — sole professional email for all applications, CV, LinkedIn
   phone: "+61 452 668 984"
   location: "Carnegie VIC 3163, Melbourne, Australia"
@@ -44,6 +51,37 @@ faith_life:  # for Catholic school 'Catholic Identity' criteria — all genuine,
   - "Member of Bosco House; in care group, takes turns preparing & reading the Acknowledgement of Country and a prayer before the whole House (~every 4 weeks)"
   - "Lives College values through service — voluntary lunchtime support for struggling students beyond his own classes"
   - "NOTE: has NOT led at the forefront of Masses/whole-school events — attends those. Be honest about this."
+
+qualifications:  # verified against original documents, 24 Sep 2026
+  - name: "Master of Teaching (Secondary Education)"   # EMES program, Footscray Nicholson Campus
+    institution: "Victoria University"
+    country: "Australia"
+    completion_date: "03/02/2023"     # testamur issue date; study completed 2022
+    teaching_method: "Science"        # Years 7-10
+    lantite: "Satisfied - embedded in the Victorian ITE program (VU MTeach)"
+  - name: "Master of Science (Biotechnology and Bioinformatics)"
+    institution: "La Trobe University"
+    country: "Australia"
+    completion_date: "07/07/2017"
+    grade: "High Distinction"
+  - name: "Master of Science (Microbiology)"
+    institution: "Bangalore University"
+    country: "India"
+    completion_date: "07/06/2013"
+  - name: "Bachelor of Science (Microbiology)"
+    institution: "Osmania University"
+    country: "India"
+    completion_date: "23/12/2010"
+
+supervised_teaching_practice:  # from VU AITSL letter, 10 Mar 2023 - 55 days total
+  - school: "East Preston Islamic College"
+    year: 2019
+    days: 15
+    ages: "13-18"
+  - school: "Mullauna College"
+    year: 2022
+    days: 40
+    ages: "13-18"
 
 target_roles:
   primary:

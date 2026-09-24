@@ -71,7 +71,7 @@ Secondary Science teacher and published research scientist who brings the labora
 - Incorporated mentor feedback to refine teaching strategies.
 
 ### Years 7–9 Science Teacher (Placement)
-**East Preston College, Melbourne** — *2019*
+**East Preston Islamic College, Melbourne** — *2019*
 - Participated in after-school meetings and parent-teacher interviews to strengthen the school community.
 - Sought and applied mentor feedback to improve teaching practice and student engagement.
 
@@ -88,8 +88,8 @@ Secondary Science teacher and published research scientist who brings the labora
 
 ## Education
 
-**Master of Teaching (Secondary School Education)**
-Victoria University, Melbourne — *2022*
+**Master of Teaching (Secondary Education)**
+Victoria University, Melbourne — *conferred 3 February 2023*
 Specialisation in Years 7–10 Science. Lesson planning, assessment, differentiation, and integration of visual arts and digital media for student-centred learning.
 
 **Master of Science (Biotechnology and Bioinformatics)**
