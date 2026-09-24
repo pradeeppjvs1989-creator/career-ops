@@ -4,6 +4,18 @@
 roles, leadership/POL, Catholic & independent schools). Pull from here so nothing is rebuilt from
 scratch. Pair with `cv.md`, `article-digest.md` (proof points 1–15), and `config/profile.yml`.
 
+**SCREENING RULE (STANDING — user instruction, 24 Sep 2026): FULL-TIME ONGOING ONLY.**
+Before drafting anything for a role, state the employment type up front as the FIRST thing in the reply:
+- ✅ **Ongoing / permanent, full-time** → proceed.
+- ❌ **Contract / fixed-term / leave-replacement / part-time / casual / CRT** → say so plainly and
+  recommend skipping. Do not draft unless the user explicitly overrides.
+- ⚠️ **Not stated in the ad** → say it is unknown and ask the user to confirm from the listing or the
+  PD BEFORE drafting. Never infer "ongoing" from "full time"; they are different fields.
+Also check and state: subject (Science/Biology, never Maths), year levels, distance from Carnegie, and
+closing date. Employment type is the gate; the rest is context.
+*(Exceptions already applied under the old rule: Casey Grammar and Melbourne Girls' College are both
+fixed-term — applied 24 Sep before this rule. Keep them; decline if something ongoing lands.)*
+
 **CONTENT RULE (STANDING — user instruction, 21 Sep 2026): every cover letter and the résumé MUST
 include the open lunchtime science support service.** Not as a one-off anecdote: it is an *ongoing*
 service, approved by the Head of Education, open to **any student in the College** rather than only his
