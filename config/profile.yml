@@ -19,7 +19,7 @@ candidate:
   portfolio_url: "https://penugondapradeep.weebly.com/"
   philosophy_site: "https://infinitelearning.au/ (under construction)"
   vit_registration: "727895"
-  vit_status: "Provisional — Registered / Card Valid"
+  vit_status: "Registered / Card Valid (Provisional) — working towards full registration, evidence lodged with VIT 27 Sep 2026"
   vit_expiry: "29/01/2027"   # ⚠️ CRITICAL — see vit_deadline_risk below
   vit_deadline_risk: |
     Provisional registration EXPIRES 29 January 2027. Every 2027 role he has applied to starts in the
@@ -55,9 +55,11 @@ referees:
     email: "melinda.davison@education.vic.gov.au"
     phone: "0468 357 576"
     vit: "369227"
-  - name: "Genelle Jones"
-    role: "Experienced Science teacher, SFX — formally observed his teaching (coaching evidence)"
-    vit: "710183"
+  # ⚠️ NOT A REFEREE. Confirmed by Pradeep 7 Oct 2026. Only Rosalie and Melinda are referees.
+  # Genelle Jones (Science teacher, SFX, VIT 710183) formally observed his teaching and is good
+  # EVIDENCE for coaching/feedback criteria, but must NOT be listed as a referee on any application.
+  # She is also at his CURRENT employer, so naming her risks exposing the job search.
+  # TODO: find a third referee who is NOT at SFX (Casey Grammar and Whitefriars both asked for three).
 
 faith_life:  # for Catholic school 'Catholic Identity' criteria — all genuine, do not embellish
   - "Attends College Masses, liturgies and whole-school faith events"

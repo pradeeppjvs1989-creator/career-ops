@@ -24,6 +24,11 @@ It is his strongest "above and beyond" evidence because nobody assigned it and n
 it wherever the school's own language invites it (service, community, pastoral care, going beyond the
 classroom, relationships with students). Approved wording is in `article-digest.md` Proof Point 11.
 
+**REFEREE RULE (STANDING — confirmed 7 Oct 2026): only TWO referees are agreed.**
+Rosalie Harding (St Peter's) and Melinda Davison (Doveton). **Genelle Jones is NOT a referee** —
+she is evidence for coaching criteria only, and she works at his current school. Never list her in
+a referee field. Where a form demands three, ask Pradeep before filling the third.
+
 **Voice rule (STANDING — apply to EVERY cover letter):** Write in a natural, human, first-person
 voice as human-sounding as possible. Plain, direct, a bit understated. **NO em dashes at all** (use
 commas, colons, parentheses, full stops). Avoid AI-tells (rule-of-three, "passionate/robust/leverage/
