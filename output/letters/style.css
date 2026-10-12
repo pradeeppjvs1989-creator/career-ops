@@ -1,0 +1,12 @@
+@page { size: A4; margin: 14mm 17mm 11mm 17mm; }
+* { box-sizing: border-box; }
+body { font-family: "Carlito","Calibri","Helvetica Neue",Arial,sans-serif; font-size: 10.1pt; line-height: 1.33; color: #1a1a1a; margin:0; }
+.name { font-size: 18pt; font-weight: 700; color:#14304f; }
+.contact { font-size: 8.5pt; color:#444; margin-top: 2px; }
+hr.rule { border:0; border-top: 1.5px solid #14304f; margin: 7px 0 11px; }
+.date { margin-bottom: 9px; font-size: 9.5pt; color:#333; }
+.to { margin-bottom: 10px; font-size: 9.6pt; line-height:1.25; }
+.to strong { color:#14304f; }
+.re { font-weight:700; color:#14304f; margin: 0 0 9px; }
+p { margin: 0 0 6.5px; }
+.sig { margin-top: 8px; } .sig .nm { font-weight:700; margin-top: 12px; } .sig .sub { font-size: 8.5pt; color:#555; }
