@@ -24,6 +24,12 @@ It is his strongest "above and beyond" evidence because nobody assigned it and n
 it wherever the school's own language invites it (service, community, pastoral care, going beyond the
 classroom, relationships with students). Approved wording is in `article-digest.md` Proof Point 11.
 
+**MATHS / HUMANITIES RULE (updated 11 Nov 2026):** the earlier "never mention Maths" rule is relaxed for
+the RESUME ONLY. The final resume lists "Years 7 to 8 Mathematics and junior Humanities" under Teaching
+Areas as allocations he is *open to*, explicitly marked "not yet taught; willing to take on". Never claim
+experience in either. Cover letters still apply as a Science specialist unless he says otherwise. The
+canonical resume is built by `output/resume/build_final_resume.py` (PDF + DOCX); edit the content there.
+
 **REFEREE RULE (STANDING — confirmed 7 Oct 2026): only TWO referees are agreed.**
 Rosalie Harding (St Peter's) and Melinda Davison (Doveton). **Genelle Jones is NOT a referee** —
 she is evidence for coaching criteria only, and she works at his current school. Never list her in

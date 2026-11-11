@@ -16,7 +16,11 @@ candidate:
   location: "Carnegie VIC 3163, Melbourne, Australia"
   address: "11/184 Neerim Road, Carnegie VIC 3163"
   linkedin: "linkedin.com/in/penugondapradeep"
-  portfolio_url: "https://penugondapradeep.weebly.com/"
+  portfolio_url: "https://penugonda.com.au"   # current; replaces the older weebly site
+  portfolio_url_legacy: "https://penugondapradeep.weebly.com/"
+  # NOTE 11 Nov 2026: his self-designed 1-page resume (Resume.pdf) STILL contains the retired
+  # "class average by roughly 25%" claim and a two-column layout that ATS parsers scramble. It has
+  # been going to schools. Replaced by output/resume/Pradeep_Penugonda_Resume_Science_Teacher.pdf
   philosophy_site: "https://infinitelearning.au/ (under construction)"
   vit_registration: "727895"
   vit_status: "Registered / Card Valid (Provisional) — working towards full registration, evidence lodged with VIT 27 Sep 2026"
