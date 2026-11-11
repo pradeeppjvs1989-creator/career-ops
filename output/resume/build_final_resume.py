@@ -13,12 +13,12 @@ NAVY = "14304f"
 NAME = "Pradeep Penugonda"
 TITLE = "Secondary Science Teacher (Years 7-10) | VCE Biology"
 CONTACT = ("Carnegie VIC 3163  |  +61 452 668 984  |  penugonda56@outlook.com  |  penugonda.com.au")
-STATUS = ("VIT 727895, registered (provisional; full-registration evidence lodged September 2026)  |  "
+STATUS = ("VIT 727895, registered (provisional; full-registration evidence complete, recommendation panel Term 4 2026)  |  "
           "Australian Permanent Resident  |  Working with Children Check: current")
 
 SUMMARY = (
-    "Secondary Science teacher at St Francis Xavier College since 2023, currently teaching seven Years 7 to 9 "
-    "Science classes across two campuses. Research scientist by training, with three master's degrees "
+    "Secondary Science teacher at St Francis Xavier College since 2023, currently teaching seven Science classes "
+    "across two Years 7 to 9 campuses, and qualified and ready to teach Science to Year 12. Research scientist by training, with three master's degrees "
     "(Teaching; Biotechnology and Bioinformatics with High Distinction; Microbiology) and three peer-reviewed "
     "publications. Data-informed practitioner: a documented Year 7 cycle of inquiry lifted the class median from "
     "51% to 70% and moved students scoring 80% or above from 0 to 11 of 28. VCE Biology content-ready after three "
@@ -27,15 +27,21 @@ SUMMARY = (
 )
 
 TEACHING_AREAS = [
-    "Science, Years 7 to 10: current, and the specialisation of my Master of Teaching.",
-    "Biology, VCE Units 1 to 4: content expertise and three years of private tutoring; seeking a first classroom allocation.",
-    "Chemistry, Years 7 to 10: grounded in laboratory research and industry quality-control experience.",
+    "Science, Years 7 to 10: current. My campus runs Years 7 to 9 only; my Master of Teaching specialisation is "
+    "Years 7 to 10 Science and I am ready for Year 10 and senior allocations.",
+    "Biology, Years 10 to 12 (VCE Units 1 to 4): ready to teach. Postgraduate biology research background and three "
+    "years of private VCE Biology tutoring (content, SACs, exam technique); seeking a first mainstream senior allocation.",
+    "STEM, Years 7 to 10: research scientist with three peer-reviewed publications; designed a Year 7 rocketry "
+    "investigation adopted by a colleague's STEM class and authored two STEM-based elective proposals for 2027.",
+    "Chemistry: Years 7 to 10 confidently, grounded in laboratory research and industry quality-control work; "
+    "VCE Chemistry with faculty support.",
     "Open to additional junior allocations if useful to the timetable: Years 7 to 8 Mathematics and junior Humanities "
     "(not yet taught; willing to take on with support).",
 ]
 
 SKILLS = [
-    "Victorian Curriculum 2.0 (Science)", "VCE Biology Units 1 to 4", "Inquiry-based and practical science",
+    "Victorian Curriculum 2.0 (Science)", "VCE Biology Units 1 to 4", "STEM program and elective design",
+    "Inquiry-based and practical science",
     "Explicit instruction and formative assessment", "Differentiation, PLP and ILP adjustments, inclusive practice",
     "Data-informed teaching (NAPLAN, PAT, diagnostic and summative data)", "Literacy and numeracy in Science",
     "EAL vocabulary scaffolding", "Laboratory safety and practical management",
@@ -119,7 +125,8 @@ EDUCATION = [
 ]
 
 REGISTRATION = [
-    "Victorian Institute of Teaching: registration 727895, provisional; full-registration evidence lodged September 2026.",
+    "Victorian Institute of Teaching: registration 727895, provisional. Full-registration evidence complete; "
+    "recommendation panel scheduled for the end of Term 4 2026.",
     "Accreditation to Teach in a Catholic School: in progress, 23 of 25 hours complete (Diocese of Sale).",
     "LANTITE: satisfied (embedded in the Victorian initial teacher education program).",
     "STAVCON 2025 (Victorian Curriculum 2.0 Science); Bill Rogers Behaviour Management series; Behavioural Leadership (2025).",
