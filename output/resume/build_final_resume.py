@@ -157,7 +157,7 @@ def build_html():
     h = []
     h.append(f"""<html><head><meta charset="utf-8"><title>{e(NAME)} - Resume</title><style>
 @page {{ size: A4; margin: 13mm 16mm 12mm 16mm; }}
-body {{ font-family: Arial, Helvetica, sans-serif; font-size: 9.9pt; line-height: 1.32; color:#1a1a1a; margin:0; }}
+body {{ font-family: Arial, Helvetica, sans-serif; font-size: 9.6pt; line-height: 1.28; color:#1a1a1a; margin:0; }}
 h1 {{ font-size: 19pt; margin:0; color:#{NAVY}; }}
 .title {{ font-size: 11pt; font-weight:700; color:#{NAVY}; margin:1px 0 3px; }}
 .contact, .status {{ font-size: 8.8pt; color:#333; margin:0; }}
